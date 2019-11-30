@@ -116,7 +116,7 @@ Pada tanggal 2 Mei 2018 saya dioperasi, tumor payudara kanan dan kiri. Setelah 2
 
 ## Komposisi Zedoril 7
 
-![testimoni zedoril](/images/komposisi-zedoril.png)
+![komposisi zedoril](/images/komposisi-zedoril.png)
 {: style="margin-left: auto; margin-right: auto;"}
 
 TERBUAT DARI:
