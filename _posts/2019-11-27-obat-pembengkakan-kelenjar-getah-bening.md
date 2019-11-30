@@ -50,13 +50,18 @@ Adapun khasiat lainnya adalah:
 <h3>Harga 1 Botol Zedoril 7</h3>
 Hanya <span style="color: red">Rp400.000</span>,- Saja
 <br />
+<br />
 <strong>1 Botol Berisi 100 Kapsul</strong>
+<br />
 <br />
 Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:
 <br />
+<br />
 <strong>PESAN 1 BOTOL</strong>
 <br />
+<br />
 <span style="color: #5b5bff;"><strong>OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</strong></span>
+<br />
 <br />
 <span style="color: #5b5bff;">— <strong>GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH</strong> —</span>
 </div>
