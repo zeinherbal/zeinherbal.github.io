@@ -104,7 +104,7 @@ Lalu sahabat dekat saya sangat menyarankan untuk konsumsi Walatra Zedoril 7 yang
 
 Lalu saya konsumsi walatra zedoril 7 sesuai dengan dosis yang disarankan yaitu 3x 4 kapsul setiap had secara rutin. Setelah saya konsumsi botol ke 3, pada miss v sya keluar lendir putih agak kehijauan dan berbau, awalnya saya kira itu keputihan. Setelah keluaran lendir itu, saya pegang kelenjar di iga saya ternyata sudah tidak ada.
 
-![testimoni zedoril](/images/istikah.jpg)
+![testimoni zedoril](/images/istikah.png)
 {: style="margin-left: auto; margin-right: auto;"}
 
 + Nama: **Istikah Kurniawati**
