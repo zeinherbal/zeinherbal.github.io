@@ -67,3 +67,5 @@ Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:
 </div>
 
 Obat herbal <span style="color: red">Zedoril 7</span> ini mengandung zat yang mampu secara bertahap menghilangkan benjolan di di buah zakar.
+
+<span style="color: red">Kok bisa?</span> Karena produk Zedoril 7 ini terbuat dari daun sirsak (annona mucirata), kulit buah manggis (garcinia mangostana) dan sirih merah (piper ornatum), yang mana berdasarkan penelitian kombinasi ketiga bahan tersebut mampu mengatasi beragam kondisi yang terjadi di dalam tubuh, termasuk di area mulut.
