@@ -4,15 +4,15 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt| strip_html }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt| strip_html }}{% endif %}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
-    <meta name="google-site-verification" content="wH1mywHZfcDpjPdd6ya6CLydY7MFJsyb4DQusYXWCcQ" />
+    <meta name="google-site-verification" content="" />
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
