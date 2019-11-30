@@ -157,9 +157,9 @@ Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
 
 ## Bagaimana Cara Pemesanannya?
 
-Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.215.649.991 dengan mencantumkan kode produk YQB seperti contoh dibawah ini :
+Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.215.649.991 dengan mencantumkan kode produk TIG seperti contoh dibawah ini :
 
-+ Kode Produk: **YQB**
++ Kode Produk: **TIG**
 + Jumlah Pemesanan: **2 Botol**
 + Nama: **Aan Suryadi**
 + Alamat: **Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat**
