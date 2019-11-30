@@ -43,3 +43,22 @@ Adapun khasiat lainnya adalah:
 + Menjaga saluran pencernaan
 + Melancarkan buang air kecil
 {: style="color: red;"}
+
+## Berapa harga perbotol Zedoril 7?
+
+{: style="border: solid 3px 3cc194; border-radius: 4px; padding: 8px; text-align: center;"}
+Harga 1 Botol Zedoril 7
+Hanya Rp400.000,- Saja
+
+1 Botol Berisi 100 Kapsul
+
+Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:
+
+PESAN 1 BOTOL
+
+OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK
+
+— GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH —
+{: }
+
+Obat herbal <span style="color: red">Zedoril 7</span> ini mengandung zat yang mampu secara bertahap menghilangkan benjolan di di buah zakar.
