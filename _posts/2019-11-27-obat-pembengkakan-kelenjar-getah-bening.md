@@ -46,19 +46,19 @@ Adapun khasiat lainnya adalah:
 
 ## Berapa harga perbotol Zedoril 7?
 
-<div style="border: solid 3px 3cc194; border-radius: 4px; padding: 8px; text-align: center;">
-Harga 1 Botol Zedoril 7
-Hanya Rp400.000,- Saja
-
-1 Botol Berisi 100 Kapsul
-
+<div style="border: solid 3px #3cc194; border-radius: 4px; padding: 8px; text-align: center;">
+<h3>Harga 1 Botol Zedoril 7</h3>
+Hanya <span style="color: red">Rp400.000</span>,- Saja
+<br />
+<strong>1 Botol Berisi 100 Kapsul</strong>
+<br />
 Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:
-
-PESAN 1 BOTOL
-
-OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK
-
-— GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH —
+<br />
+<strong>PESAN 1 BOTOL</strong>
+<br />
+<span style="color: #5b5bff;"><strong>OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</strong></span>
+<br />
+<span style="color: #5b5bff;">— <strong>GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH</strong> —</span>
 </div>
 
 Obat herbal <span style="color: red">Zedoril 7</span> ini mengandung zat yang mampu secara bertahap menghilangkan benjolan di di buah zakar.
