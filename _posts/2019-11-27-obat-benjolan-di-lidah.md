@@ -142,13 +142,13 @@ Lulus pengujian kandungan BPOM RI dengan No Reg 173304521.
 ![original zedoril](/images/logo1.png)
 {: style="margin-left: auto; margin-right: auto;"}
 
-**100% Original**
+**100% Original** - 
 Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.
 
-![halal zedoril](/images/logo2.png)
+![halal zedoril](/images/logo2.png) - 
 {: style="margin-left: auto; margin-right: auto;"}
 
-**Teruji Halal**
+**Teruji Halal** - 
 Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
 
 ## Penggunaan produk Zedoril
