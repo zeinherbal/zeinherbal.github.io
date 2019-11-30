@@ -114,3 +114,44 @@ Pada tanggal 2 Mei 2018 saya dioperasi, tumor payudara kanan dan kiri. Setelah 2
 
 ![testimoni zedoril](/images/testi%20zedoril.jpg)
 {: style="margin-left: auto; margin-right: auto;"}
+
+## Komposisi Zedoril 7
+
+![testimoni zedoril](/images/komposisi-zedoril-2.png)
+{: style="margin-left: auto; margin-right: auto;"}
+
+TERBUAT DARI:
+
++ DAUN SIRSAK (ANNONA MUCIRATA)
++ KULIT BUAH MANGGIS (GARCINIA MANGOSTANA)
++ SIRIH MERAH (PIPER ORNATUM)
+
+1 kapsul Zedoril 7 mengandung:
+
++ 40% Daun sirsak (annona mucirata)
++ 40% Kulit buah manggis (garcinia mangostana)
++ 20% Sirih merah (piper ornatum)
+
+## Apakah Zedoril 7 Aman?
+
+![bpom zedoril](/images/logo3.png)
+{: style="margin-left: auto; margin-right: auto;"}
+
+**Terdaftar di BPOM**
+Lulus pengujian kandungan BPOM RI dengan No Reg 173304521.
+
+![original zedoril](/images/logo1.png)
+{: style="margin-left: auto; margin-right: auto;"}
+
+**100% Original**
+Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.
+
+![halal zedoril](/images/logo2.png)
+{: style="margin-left: auto; margin-right: auto;"}
+
+**Teruji Halal**
+Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
+
+## Penggunaan produk Zedoril
+
++ Sehari 3 kali 4 kapsul
