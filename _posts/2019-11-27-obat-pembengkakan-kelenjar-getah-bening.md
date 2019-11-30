@@ -28,3 +28,18 @@ Kandungan dalam berbagai bahan tersebut sudah terbukti berdasarkan penelitian.
 
 ![obat benjolan di lidah zedoril 7](/images/zedoril3.jpg)
 {: style="margin-left: auto; margin-right: auto; width: 95%;"}
+
+Sudah banyak masyarakat yang merasakan khasiat dari produk herbal Zedoril 7 ini. Tentunya dengan pengobatan secara serius.
+
+Dengan mengonsumsi Zedoril secara rutin dan teratur kondisi benjolan di lidah <span style="color: #3cc194;">bisa secara bertahap normal kembali</span>.
+
+Adapun khasiat lainnya adalah:
+
++ Mengatasi kondisi diabetes atau menurunkan kadar gula darah
++ Menyembuhkan asam urat
++ Membuang racun dalam tubuh
++ Melindungi kesehatan jantung
++ Meningkatkan sistem peredaran darah
++ Menjaga saluran pencernaan
++ Melancarkan buang air kecil
+{: style="color: red;"}
