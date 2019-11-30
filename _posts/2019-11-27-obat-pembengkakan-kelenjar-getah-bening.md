@@ -8,9 +8,8 @@ description: Sembuhkan benjolan di lidah dengan obat herbal Zedoril 7 dengan kha
 
 Penyebab benjolan di lidah bisa beragam, mulai dari trauma, pembesaran papil lidah, iritasi, kanker, dsb. Pengobatan diperlukan segera untuk bisa mengatasi kondisi benjolan di lidah ini.
 
-{: style="padding-left: 10px; border-left: solid 6px #3cc194;"}
 Dan, salah satu pengobatan terbaik yang khasiatnya sudah terbukti adalah obat herbal **Zedoril 7**. Terbuat dari ***daun sirsak (annona mucirata)***, ***kulit buah manggis (garcinia mangostana)***, dan ***sirih merah (piper ornatum)***.
-
+{: style="padding-left: 10px; border-left: solid 6px #3cc194;"}
 
 Khusus untuk hari ini:
 {: style="text-align: center;"}
