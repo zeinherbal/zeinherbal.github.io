@@ -15,7 +15,6 @@ Dan, salah satu pengobatan terbaik yang khasiatnya sudah terbukti adalah obat he
 Khusus untuk hari ini:
 {: style="text-align: center;"}
 
-{:refdef: style="color: red;"}
 + **Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima**
 + **Pesan 2 Botol - Gratis Ongkos Kirim**
-{: refdef}
+{: style="color: red;"}
