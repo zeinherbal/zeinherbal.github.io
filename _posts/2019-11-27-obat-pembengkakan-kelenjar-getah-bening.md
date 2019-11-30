@@ -68,4 +68,49 @@ Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:
 
 Obat herbal <span style="color: red">Zedoril 7</span> ini mengandung zat yang mampu secara bertahap menghilangkan benjolan di di buah zakar.
 
-<span style="color: red">Kok bisa?</span> Karena produk Zedoril 7 ini terbuat dari daun sirsak (annona mucirata), kulit buah manggis (garcinia mangostana) dan sirih merah (piper ornatum), yang mana berdasarkan penelitian kombinasi ketiga bahan tersebut mampu mengatasi beragam kondisi yang terjadi di dalam tubuh, termasuk di area mulut.
+<span style="color: red">Kok bisa?</span> Karena produk Zedoril 7 ini terbuat dari **daun sirsak (annona mucirata)**, **kulit buah manggis (garcinia mangostana)**, dan **sirih merah (piper ornatum)**, yang mana berdasarkan <span style="color: #3cc194;">penelitian kombinasi ketiga bahan tersebut mampu mengatasi beragam kondisi yang terjadi di dalam tubuh, termasuk di area mulut</span>.
+
+## Khasiat Zedoril 7
+
+Di dalamnya terdapat kandungan Acetogenin dari daun sirsak. <span style="color: red">Zat ini bersifat antikanker yang sangat kuat, tentunya bisa mencegah dan menghambat pertumbuhan benjolan di lidah, bila memang disebabkan oleh kanker</span>.
+
+Terdapat pula senyawa polifenol, saponin, dan bioflavonoid yang merupakan antioksidan. Antioksidan ini mampu secara efektif melindungi tubuh dari bahaya radikal bebas dan penyakit serius.
+
+<span style="color: red">Zat-zat dengan sifat anti-inflamasi dalam produk ini mampu secara efektif mengatasi peradangan yang terdapat dalam jaringan di lidah.</span>
+
+Produk herbal Zedoril 7 ini sudah lolos uji lab di <span style="color: red">BPOM RI</span> dengan no reg <span style="color: red">173304521</span>. Dan juga lolos uji halal, di <span style="color: greelight;">Badan Sertifikasi Halal MUI</span>.
+
+PZedoril 7 ini menggunakan alat dengan teknologi nano. Alat ini bisa mengubah bahan mentah tomat dan minyak zaitun menjadi ekstrak berbentuk bubuk dengan ukuran nano.
+
+Teknologi nano ini membuat kandungan dalam produk Zedoril bisa dengan mudah diserap tubuh.
+
+Zedoril 7 juga bisa untuk penderita **diabetes**, **menurunkan kolesterol**, **turunkan tekanan darah**, dan **banyak lagi**.
+
+## Testimoni Zedoril Sebagai Obat Benjolan di Lidah
+
++ Nama: **Siti Aminah**
++ Usia: **19 tahun**
++ Alamat: **Tasikmalaya**
++ Keluhan: **Benjolan sebesar bola kasti di dekat Iga**
++ Penggunaan : **Walatra Zedoril 7 Herbal**
+
+Assalamualaikum Wr. Wb
+
+Sudah beberapa bulan ini saya memiliki benjolan di dekat iga saya, awalnya saya kira itu benjolan biasa tapi semakin hari benjolan itu bertambah besar hingga sebesar bola kasti dan jika ditekan terasa nyeri. 
+
+Saya diantar keluarga untuk memeriksakan ke bidan untuk memastikan apakah benjolan ini berbahaya atau tidak, ternyata benjolan ini adalah kelenjar.
+
+Lalu sahabat dekat saya sangat menyarankan untuk konsumsi Walatra Zedoril 7 yang sangat bagus untuk atasi berbagai kelenjar dan jenis kanker.
+
+Lalu saya konsumsi walatra zedoril 7 sesuai dengan dosis yang disarankan yaitu 3x 4 kapsul setiap had secara rutin. Setelah saya konsumsi botol ke 3, pada miss v sya keluar lendir putih agak kehijauan dan berbau, awalnya saya kira itu keputihan. Setelah keluaran lendir itu, saya pegang kelenjar di iga saya ternyata sudah tidak ada.
+
+![testimoni zedoril](/images/istikah.jpg)
+{: style="margin-left: auto; margin-right: auto;"}
+
++ Nama: **Istikah Kurniawati**
++ Alamat: **Kendal**
+
+Pada tanggal 2 Mei 2018 saya dioperasi, tumor payudara kanan dan kiri. Setelah 2 minggu tepatnya tanggal 19 Mei, saya operaai lagi karena ada abses di payudara kanan. Setelah luka bekas operasi sembuh ternyata masih ada benjolan di payudara yang kiri. Saya jadi trauma untuk operasi lagi karena ada infeksi/abses waktu itu. Kemudian suami saya menyarankan untuk minum Zedoril 7 Walatra. Saya juga ada keluhan keputihan. Setelah minum Zedoril 1 botol sudah tidak terasa ada benjolan dan tidak nyeri lagi. Alhamdulillah dengan perantaraan obat Zedoril 7 Allah memberi kesembuhan pada penyakit saya.
+
+![testimoni zedoril](/images/testi%20zedoril.jpg)
+{: style="margin-left: auto; margin-right: auto;"}
