@@ -27,7 +27,7 @@ Kandungan dalam berbagai bahan tersebut sudah terbukti berdasarkan penelitian.
 ## Zedoril 7 Menjadi Obat Herbal Untuk Benjolan di Lidah
 
 ![obat benjolan di lidah zedoril 7](/images/zedoril3.jpg)
-{: style="margin-left: auto; margin-right: auto; width: 95%;"}
+{: style="margin-left: auto; margin-right: auto; width: 95%; text-align:center;"}
 
 Sudah banyak masyarakat yang merasakan khasiat dari produk herbal Zedoril 7 ini. Tentunya dengan pengobatan secara serius.
 
@@ -104,7 +104,7 @@ Lalu sahabat dekat saya sangat menyarankan untuk konsumsi Walatra Zedoril 7 yang
 
 Lalu saya konsumsi walatra zedoril 7 sesuai dengan dosis yang disarankan yaitu 3x 4 kapsul setiap had secara rutin. Setelah saya konsumsi botol ke 3, pada miss v sya keluar lendir putih agak kehijauan dan berbau, awalnya saya kira itu keputihan. Setelah keluaran lendir itu, saya pegang kelenjar di iga saya ternyata sudah tidak ada.
 
-<img style="margin-left: auto; margin-right: auto;" src="/images/istikah.png">
+<img style="margin-left: auto; margin-right: auto; text-align:center;" src="/images/istikah.png">
 
 + Nama: **Istikah Kurniawati**
 + Alamat: **Kendal**
@@ -112,12 +112,12 @@ Lalu saya konsumsi walatra zedoril 7 sesuai dengan dosis yang disarankan yaitu 3
 Pada tanggal 2 Mei 2018 saya dioperasi, tumor payudara kanan dan kiri. Setelah 2 minggu tepatnya tanggal 19 Mei, saya operaai lagi karena ada abses di payudara kanan. Setelah luka bekas operasi sembuh ternyata masih ada benjolan di payudara yang kiri. Saya jadi trauma untuk operasi lagi karena ada infeksi/abses waktu itu. Kemudian suami saya menyarankan untuk minum Zedoril 7 Walatra. Saya juga ada keluhan keputihan. Setelah minum Zedoril 1 botol sudah tidak terasa ada benjolan dan tidak nyeri lagi. Alhamdulillah dengan perantaraan obat Zedoril 7 Allah memberi kesembuhan pada penyakit saya.
 
 ![testimoni zedoril](/images/testi%20zedoril.jpg)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 ## Komposisi Zedoril 7
 
 ![komposisi zedoril](/images/komposisi-zedoril.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 TERBUAT DARI:
 
@@ -134,19 +134,19 @@ TERBUAT DARI:
 ## Apakah Zedoril 7 Aman?
 
 ![bpom zedoril](/images/logo3.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 **Terdaftar di BPOM** - 
 Lulus pengujian kandungan BPOM RI dengan No Reg 173304521.
 
 ![original zedoril](/images/logo1.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 **100% Original** - 
 Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.
 
 ![halal zedoril](/images/logo2.png) - 
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 **Teruji Halal** - 
 Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
