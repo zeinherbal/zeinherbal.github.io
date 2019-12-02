@@ -13,8 +13,10 @@ Terdapat beragam penyebab yang bisa timbulkan bilirubin tinggi. Seperti, ***mala
 
 Dan di situs **Lycoherbal.Com** ini, kami berikan solusi untuk menurunkan kadar bilirubin tinggi. Yaitu dengan produk obat herbal. Namanya <span style="color: #ffa500">QnC Jelly Gamat</span>. Berasal dari ***teripang emas*** dan ***madu murni***.
 
-Khusus untuk hari ini:
-— Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima —
+<span style="color: #cc0000;">Khusus untuk hari ini:</span>
+{: style="text-align: center;"}
+
+<span style="color: #cc0000;">— Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima —</span>
 {: style="text-align: center;"}
 
 Kandungan dalam produk QnC Jelly Gamat ini mampu secara efektif mengurangi bilirubin dalam darah, dengan memperbaiki kondisi hati. Dan juga pankreas dan saluran empedu.
