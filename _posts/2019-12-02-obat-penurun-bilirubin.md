@@ -111,7 +111,7 @@ TERBUAT DARI:
 
 ## Apakah QnC Jelly Gamat Aman?
 
-![QnC Jelly Gamat](/images/logo3.jpg)
+![QnC Jelly Gamat](/images/logo3.png)
 {: style="margin-left: auto; margin-right: auto;"}
 
 **Terdaftar di BPOM**
@@ -120,7 +120,7 @@ TERBUAT DARI:
 **Lulus pengujian kandungan BPOM RI dengan No Reg TR173301471.**
 {: style="text-align: center;"}
 
-![QnC Jelly Gamat](/images/logo1.jpg)
+![QnC Jelly Gamat](/images/logo1.png)
 {: style="margin-left: auto; margin-right: auto;"}
 
 **100% Original**
@@ -129,7 +129,7 @@ TERBUAT DARI:
 **Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.**
 {: style="text-align: center;"}
 
-![QnC Jelly Gamat](/images/logo2.jpg)
+![QnC Jelly Gamat](/images/logo2.png)
 {: style="margin-left: auto; margin-right: auto;"}
 
 **Teruji Halal**
