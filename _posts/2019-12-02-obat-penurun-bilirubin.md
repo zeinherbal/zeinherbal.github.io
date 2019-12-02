@@ -47,7 +47,6 @@ Selain mampu turunkan bilirubin, produk herbal ini juga mampu:
 <div style="border-radius: 2px; border: 3px solid rgb(216, 216, 216); padding: 10px; text-align: center;">
 <h3>Harga 1 Botol QnC Jelly Gamat</h3>
 <br>
-<br>
 Hanya <strong>Rp155.000</strong>,- Saja
 <br>
 <br>
