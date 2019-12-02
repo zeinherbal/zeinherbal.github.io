@@ -92,18 +92,18 @@ Proses produksi **QnC Jelly Gamat** ini menggunakan alat dengan teknologi yang b
 ## QnC Jelly Gamat Sebagai Obat Penurun Bilirubin
 
 ![QnC Jelly Gamat](/images/git1.jpg)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 ![QnC Jelly Gamat](/images/git2.jpg)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 ![QnC Jelly Gamat](/images/git3.jpg)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 ## Komposisi QnC Jelly Gamat
 
 ![QnC Jelly Gamat](/images/teripang-madu.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 TERBUAT DARI:
 
@@ -112,7 +112,7 @@ TERBUAT DARI:
 ## Apakah QnC Jelly Gamat Aman?
 
 ![QnC Jelly Gamat](/images/logo3.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 **Terdaftar di BPOM**
 {: style="text-align: center;"}
@@ -121,7 +121,7 @@ TERBUAT DARI:
 {: style="text-align: center;"}
 
 ![QnC Jelly Gamat](/images/logo1.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 **100% Original**
 {: style="text-align: center;"}
@@ -130,7 +130,7 @@ TERBUAT DARI:
 {: style="text-align: center;"}
 
 ![QnC Jelly Gamat](/images/logo2.png)
-{: style="margin-left: auto; margin-right: auto;"}
+{: style="margin-left: auto; margin-right: auto; text-align:center;"}
 
 **Teruji Halal**
 {: style="text-align: center;"}
