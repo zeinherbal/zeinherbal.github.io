@@ -16,8 +16,9 @@ Yaitu, obat herbal dari sarang semut, namanya **Sarmucare**. Produk obat ini 100
 
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tombol di bawah ini.
 
-<a href="" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; padding: 10px;">PESAN SEKARANG via WA</a>
+<a href="" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; padding: 10px;">**PESAN SEKARANG via WA**</a>
 {: style="text-align: center;"}
+
 
 **Untuk hari ini:**
 {: style="text-align: center;"}
@@ -36,7 +37,7 @@ Dengan beragam kandungan dalam Sarmucare ini kondisi darah yang kental dalam tub
 
 Sehingga beragam keluhan dan risiko penyakit serius hilang.
 
-Kandungan ***efek kardiovaskular***, ***antioksidan***, dan ***efek vaskular*** Sarang Semut Sarmucare bisa membantu tubuh dalam mengencerkan darah.
+Kandungan <span style="color: red">***efek kardiovaskular***</span>, <span style="color: red">***antioksidan***</span>, dan <span style="color: red">***efek vaskular***</span> Sarang Semut Sarmucare bisa membantu tubuh dalam mengencerkan darah.
 
 Ragam kandungan lain juga tentunya bisa membantu tubuh menjadi lebih sehat.
 
@@ -58,16 +59,37 @@ Dan adapun beragam khasiat dari Sarmucare ini adalah:
 	<h3>Harga 1 Botol QnC Jelly Gamat</h3>
 	Hanya <strong>Rp155.000</strong>,- Saja
 	<br>
+	<br>
 	<strong>1 Botol Berisi 350 ml</strong>
+	<br>
 	<br>
 	<strong><span style="color: green;">Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:</span></strong>
 	<br>
+	<br>
 	<strong><span style="color: lime;">PESAN 1 BOTOL</span></strong>
+	<br>
 	<br>
 	<strong><span style="color: red;">OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</span></strong>
 </div>
 
 Produk herbal Sarmucare ini diproduksi oleh **CV. SAMI MANDJOER**, yang berlokasi di *Kab. Kulon Progo, DI Yogyakarta*.
+
+<div style="border-radius: 3px; border: 3px solid rgb(255, 204, 204); padding: 10px;">
+	<h3>Khasiat Sarmucare untuk mengatasi darah kental</h3>
+	<strong>Kok bisa?</strong> Karena produk Sarmucare ini terbuat dari 100% <strong><span style="color: #cc0000;">Ekstrak Sarang Semut</span></strong> berkualitas.
+	<br>
+	<br>
+	<span style="color: magenta;"><strong>Kualitas kandungan Sarmucare ini berdasarkan penelitian mampu mengatasi kondisi darah yang mengental</strong></span>.
+	<br>
+	<br>
+	Karena hasil penelitian menunjukan Sarang Semut ini memiliki <strong><span style="color: cyan;">anti-inflamasi, antimikroba, antineoplastik, sifat anxiolytic, efek kardiovaskular, efek vaskular, efek neuroprotektif, dsb</span></strong>.
+	<br>
+	<br>
+	Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan kesehatan tubuh.
+	<br>
+	<br>
+	Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
+</div>
 
 Produk herbal Sarmucare ini sudah lolos uji lab di **BPOM RI** dengan no reg **193325781**. Dan juga lolos uji halal, di **Badan Sertifikasi Halal MUI**.
 
