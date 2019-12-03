@@ -16,9 +16,9 @@ Yaitu, obat herbal dari sarang semut, namanya **Sarmucare**. Produk obat ini 100
 
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tombol di bawah ini.
 
-<a href="" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; padding: 10px;">**PESAN SEKARANG via WA**</a>
+<a href="" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;">**PESAN SEKARANG via WA**</a>
+<br>
 {: style="text-align: center;"}
-
 
 **Untuk hari ini:**
 {: style="text-align: center;"}
