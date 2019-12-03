@@ -8,7 +8,7 @@ Mengeluhkan gejala akibat darah kental? Seperti lengan dan kaki terasa kesemutan
 
 Bila Anda merasakan keluhan tersebut segera obati, karena **bila dibiarkan kondisi tersebut bisa berubah parah, atau sebabkan penyakit kronis, seperti penyakit jantung, stroke, dan gangguan ginjal**.
 
-Dan bila Anda mencari solusi untuk mengobati darah kental tanpa obat kimia, di situs ini kami memiliki solusi untuk mengobati kondisi Anda tanpa obat kimia.
+Dan bila Anda mencari solusi untuk mengobati darah kental tanpa obat kimia, ***<span style="color: green">di situs ini kami memiliki solusi untuk mengobati kondisi Anda tanpa obat kimia</span>***.
 
 Yaitu, obat herbal dari sarang semut, namanya **Sarmucare**. Produk obat ini 100% alami, yang artinya ***100% dari sarang semut***.
 
@@ -16,7 +16,8 @@ Yaitu, obat herbal dari sarang semut, namanya **Sarmucare**. Produk obat ini 100
 
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tombol di bawah ini.
 
-<a href="" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; padding: 10px; text-align: center;">PESAN SEKARANG via WA</a>
+<a href="" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; padding: 10px;">PESAN SEKARANG via WA</a>
+{: style="text-align: center;"}
 
 **Untuk hari ini:**
 {: style="text-align: center;"}
