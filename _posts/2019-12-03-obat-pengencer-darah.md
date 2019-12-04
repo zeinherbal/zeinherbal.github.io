@@ -33,6 +33,7 @@ Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tom
 ## Normalkan kembali darah kental dengan Sarmucare
 
 ![Sarmucare](https://1.bp.blogspot.com/-Q0fCyIsEtE0/XYwxohl_a0I/AAAAAAAAAO0/pQe2dR27GZwnTKHW-Ybr2JwZvsf3fdVoQCNcBGAsYHQ/s400/sarmucareTOS.png)
+{: style="text-align: center;"}
 
 Dengan beragam kandungan dalam Sarmucare ini kondisi darah yang kental dalam tubuh bisa diencerkan atau dinormalkan kembali.
 
