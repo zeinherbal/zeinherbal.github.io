@@ -67,12 +67,12 @@ Hanya <strong>Rp195.000</strong>,- Saja
 <strong style="color: green;">PESAN 1 BOTOL</strong>
 <br>
 <br>
-<strong>OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK
+<strong>OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</strong>
 </div>
 
 Produk herbal Sarmucare ini diproduksi oleh CV. SAMI MANDJOER, yang berlokasi di Kab. Kulon Progo, DI Yogyakarta.
 
-<div style="border: 4px solid teal">
+<div style="border: 4px solid teal; border-radius: 4px; padding: 6px;">
 <h2>Khasiat Sarmucare untuk mengatasi darah kental</h2>
 
 Kok bisa? Karena produk Sarmucare ini terbuat dari 100% <strong style="color: red">Ekstrak Sarang Semut</strong> berkualitas.
