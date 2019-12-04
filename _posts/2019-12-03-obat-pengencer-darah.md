@@ -58,11 +58,11 @@ Dan adapun beragam khasiat dari Sarmucare ini adalah:
 ## Berapa harga perbotolnya?
 
 <div style="border-radius: 2px; border: 3px solid rgb(216, 216, 216); padding: 10px; text-align: center; text-align: center;">
-	<h3>Harga 1 Botol QnC Jelly Gamat</h3>
-	Hanya <strong>Rp155.000</strong>,- Saja
+	<h3>Harga 1 Botol Sarmucare</h3>
+	Hanya <strong>Rp195.000</strong>,- Saja
 	<br>
 	<br>
-	<strong>1 Botol Berisi 350 ml</strong>
+	<strong>1 Botol Berisi 100 kapsul</strong>
 	<br>
 	<br>
 	<strong><span style="color: green;">Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:</span></strong>
@@ -72,6 +72,9 @@ Dan adapun beragam khasiat dari Sarmucare ini adalah:
 	<br>
 	<br>
 	<strong><span style="color: red;">OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</span></strong>
+	<br>
+	<br>
+	<strong>— GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH —</strong>
 </div>
 
 Produk herbal Sarmucare ini diproduksi oleh **CV. SAMI MANDJOER**, yang berlokasi di *Kab. Kulon Progo, DI Yogyakarta*.
