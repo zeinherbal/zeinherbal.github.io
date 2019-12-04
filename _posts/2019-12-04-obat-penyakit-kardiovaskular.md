@@ -160,9 +160,9 @@ Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
 
 ## Bagaimana cara pemesanannya?
 
-Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.215.649.991 dengan mencantumkan kode produk YBG seperti contoh dibawah ini:
+Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.215.649.991 dengan mencantumkan kode produk GIB seperti contoh dibawah ini:
 
-+ Kode Produk: <strong style="color: red;">YBG</strong>
++ Kode Produk: <strong style="color: red;">GIB</strong>
 + Jumlah Pemesanan: <strong style="color: red;">2 Botol</strong>
 + Nama: <strong style="color: red;">Aan Suryadi</strong>
 + Alamat: <strong style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</strong>
