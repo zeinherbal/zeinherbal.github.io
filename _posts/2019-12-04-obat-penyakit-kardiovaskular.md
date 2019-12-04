@@ -69,7 +69,10 @@ Hanya <strong>Rp195.000</strong>,- Saja
 <strong style="color: green;">PESAN 1 BOTOL</strong>
 <br>
 <br>
-<strong>OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</strong>
+<strong style="color: red;">OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</strong>
+<br>
+<br>
+<strong>— GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH —</strong>
 </div>
 
 Produk herbal Sarmucare ini diproduksi oleh CV. SAMI MANDJOER, yang berlokasi di Kab. Kulon Progo, DI Yogyakarta.
@@ -78,13 +81,17 @@ Produk herbal Sarmucare ini diproduksi oleh CV. SAMI MANDJOER, yang berlokasi di
 <h2>Khasiat Sarmucare untuk mengatasi darah kental</h2>
 
 Kok bisa? Karena produk Sarmucare ini terbuat dari 100% <strong style="color: red">Ekstrak Sarang Semut</strong> berkualitas.
-
+<br>
+<br>
 <strong style="color: fuchsia;">Kualitas kandungan Sarmucare ini berdasarkan penelitian mampu mengatasi kondisi darah dalam tubuh yang mengalami gangguan, seperti pengentalan darah.</strong>
-
+<br>
+<br>
 Karena hasil penelitian menunjukan Sarang Semut ini memiliki <strong style="color: aqua;">anti-inflamasi</strong>, <strong style="color: aqua;">antimikroba</strong>, <strong style="color: aqua;">antineoplastik</strong>, <strong style="color: aqua;">sifat anxiolytic</strong>, <strong style="color: aqua;">efek kardiovaskular</strong>, <strong style="color: aqua;">efek vaskular</strong>, <strong style="color: aqua;">efek neuroprotektif</strong>, dsb.
-
+<br>
+<br>
 Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan kesehatan tubuh.
-
+<br>
+<br>
 Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
 </div>
 
