@@ -28,7 +28,7 @@ Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tom
 <br>
 <br>
 
-## Sembuh penyakit kardiovaskular Anda dengan Sarmucare
+## Sembuhkan penyakit kardiovaskular Anda dengan Sarmucare
 
 ![sarang semut sarmucare](https://1.bp.blogspot.com/-Q0fCyIsEtE0/XYwxohl_a0I/AAAAAAAAAO0/pQe2dR27GZwnTKHW-Ybr2JwZvsf3fdVoQCNcBGAsYHQ/s400/sarmucareTOS.png)
 {: style="text-align: center;"}
