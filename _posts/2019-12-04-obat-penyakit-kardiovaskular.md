@@ -86,7 +86,7 @@ Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan 
 Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
 </div>
 
-Produk herbal Sarmucare ini sudah lolos uji lab di <strong>BPOM RI</strong> dengan no reg <strong>193325781</strong>. Dan juga lolos uji halal, di <strong>Badan Sertifikasi Halal MUI</strong>strong>.
+Produk herbal Sarmucare ini sudah lolos uji lab di <strong>BPOM RI</strong> dengan no reg <strong>193325781</strong>. Dan juga lolos uji halal, di <strong>Badan Sertifikasi Halal MUI</strong>.
 
 Proses produksinya menggunakan alat dengan teknologi nano. Alat ini bisa mengubah bahan mentah sarang semut menjadi ekstrak berbentuk bubuk dengan ukuran nano.
 
