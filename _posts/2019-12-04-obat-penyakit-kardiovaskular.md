@@ -172,7 +172,7 @@ Kirim Ke: 082.215.649.991
 {: style="text-align: center; color: lime;"}
 
 Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
-{: style="text-align: center;"}
+{: style="text-align: center; font-weight: bold;"}
 
 <div style="text-align: center;">
 	<strong><a href="https://api.whatsapp.com/send?phone=6282215649991&amp;text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GIB%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" id="wa-ybg" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px; text-decoration: none;">PESAN SEKARANG via WA</a></strong>
