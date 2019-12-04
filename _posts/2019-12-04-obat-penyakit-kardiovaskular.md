@@ -78,7 +78,7 @@ Hanya <strong>Rp195.000</strong>,- Saja
 Produk herbal Sarmucare ini diproduksi oleh CV. SAMI MANDJOER, yang berlokasi di Kab. Kulon Progo, DI Yogyakarta.
 
 <div style="border: 4px solid teal; border-radius: 4px; padding: 6px;">
-<h2>Khasiat Sarmucare untuk mengatasi darah kental</h2>
+<h2>Khasiat Sarmucare untuk mengatasi penyakit kardiovaskular</h2>
 
 Kok bisa? Karena produk Sarmucare ini terbuat dari 100% <strong style="color: red">Ekstrak Sarang Semut</strong> berkualitas.
 <br>
