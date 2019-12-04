@@ -11,8 +11,8 @@ Dan produk obat herbal <span style="color: red;">**Lycozein**</span> adalah solu
 Khusus untuk hari ini:
 {: style="text-align: center;"}
 
-+ — <span style="color: #ff2bc6;">Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</span>
-+ — <span style="color: #ff2bc6;">Pesan 2 Botol - Gratis Ongkos Kirim</span>
+— <span style="color: #ff2bc6;">Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</span>
+— <span style="color: #ff2bc6;">Pesan 2 Botol - Gratis Ongkos Kirim</span>
 {: style="text-align: center;"}
 
 Pengobatan dengan serius tentunya sangat diperlukan. Karena kondisi sakit buah zakar bisa mengakibatkan:
@@ -27,6 +27,7 @@ Pengobatan dengan serius tentunya sangat diperlukan. Karena kondisi sakit buah z
 ## Jangan Khawatir, Sembuhkan dengan Lycopene/Lycozein
 
 ![Produk Lycozein](https://1.bp.blogspot.com/-dOfVi4c-mOA/XYMDVyBCy8I/AAAAAAAAAN8/P45cLC2lL64qpOl9WZTKiihVvtSIS3pvACPcBGAYYCw/s320/lycozein3.jpg)
+{: style="text-align: center;"}
 
 Inilah produk herbal yang bisa menyembuhkan sakit buah zakar, yaitu <span style="color: red;">Lycozein</span>.
 
@@ -48,21 +49,27 @@ Adapun khasiat lainnya adalah:
 
 ## Berapa harga perbotol Lycozein?
 
-{:refdef: style="border: solid 3px greenlight; border-radius: 3px; padding: 9px; text-align: center;"}
+<div style="border: solid 3px greenlight; border-radius: 3px; padding: 9px; text-align: center; font-weight: bold;">
 <span style="color: red;">Harga 1 Botol Lycozein</span>
-
+<br>
+<br>
 Hanya <span style="color: blue;">Rp450.00</span>,- Saja
-
+<br>
+<br>
 1 Botol Berisi 60 Softgel
-
+<br>
+<br>
 Khusus Anda yang pesan hari ini akan Kami Berikan Layanan Spesial, yaitu:
-
+<br>
+<br>
 PESAN 1 BOTOL
-
+<br>
+<br>
 <span style="color: red;">OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</span>
-
+<br>
+<br>
 <span style="color: red;">— GRATIS ONGKOS KIRIM UNTUK PEMESANAN 2 BOTOL ATAU LEBIH —</span>
-{: refdef}
+</div>
 
 Lycozein diproduksi oleh **CV. SAMI MANDJOER**, yang berlokasi ***Kab. Kulon Progo, DI Yogyakarta***.
 
@@ -70,7 +77,7 @@ Obat herbal Lycozein ini mengandung zat yang mampu meredakan gejala dari nyeri d
 
 <span style="color: red;">Kok bisa?</span> Karena produk Lycozein ini terbuat dari ekstrak tomat dan minyak zaitun, yang mana berdasarkan penelitian kombinasi kedua bahan tersebut mampu mengatasi beragam kondisi yang terjadi di sistem reproduksi pria, seperti di buah zakar.
 
-{:refdef: style="border: solid 3px red; border-radius: 3px; padding: 9px;"}
+<div style="border: solid 3px red; border-radius: 3px; padding: 9px;">
 ### Khasiat Lycozein Untuk Sakit Buah Zakar
 
 Tomat sendiri mengandung likopen yang bisa memberantas penyakit di sistem reproduksi pria dan mencegah kanker.
@@ -80,7 +87,7 @@ Tomat sendiri mengandung likopen yang bisa memberantas penyakit di sistem reprod
 ***Sedangan minyak zaitun mengandung antioksidan tinggi yang bisa mempercepat penyembuhan penyakit yang terjadi di buah zakar.***
 
 Juga, merelaksasi kondisi buah zakar yang menegang akibat peradangan.
-{: refdef}
+</div>
 
 Produk herbal Lycozein ini sudah lolos uji lab di **BPOM RI** dengan no reg **193330751**. Dan juga lolos uji halal, di **Badan Sertifikasi Halal MUI**.
 
@@ -96,6 +103,7 @@ Lycozein juga bisa untuk penderita diabetes, menurunkan kolesterol, turunkan tek
 ## Testimoni Lycozein Sebagai Obat Sakit Buah Zakar
 
 ![Testimoni Lycozein](https://1.bp.blogspot.com/-ZhA2ipCoVUA/XX8SSTbVu2I/AAAAAAAAAMs/EkfqLZJZaJYMkGSira1rt7eoKdsR3SsMACNcBGAsYHQ/s1600/testi-jumron.jpg)
+{: style="text-align: center;"}
 
 + Nama: ***Jumron***
 + Alamat: ***Kp. Cisomang Tengah No 7 RT 03 RW 10 Ds. Cisomang Barat Kec. Cikalong Wetan Kab. Bandung Barat 40556***
@@ -114,6 +122,8 @@ Keluhan sakit panggul saya akibat prostat ini pun sudah membaik. Setelah sekian 
 Saya bersyukur sekali atas jalan yang tidak disangka-sangka ini dan saya berdo’a semoga lebih banyak lagi orang-orang yang terbantu dengan produk yg luar biasa ini. Terimakasih.
 
 ## Komposisi Lycozein
+
+![Komposisi Lycozein](https://1.bp.blogspot.com/-_4Yp2M5PnFk/XX8o1X6aFmI/AAAAAAAAAM4/68k0SsSzcFoeoC1L6h_ibKc8bEvL8dTGwCNcBGAsYHQ/s320/tomat-dan-zaitun.jpg)
 
 TERBUAT DARI:
 
@@ -158,13 +168,13 @@ Untuk cara pemesanannya sangat mudah sekali.
 
 Anda cukup mengirimkan SMS / WA Ke No. 082.215.649.991 dengan mencantumkan kode produk YCW seperti contoh dibawah ini :
 
-+ Kode Produk: <span style="color: red;">YCW</span>
-+ Jumlah Pemesanan: <span style="color: red;">2 Botol</span>
-+ Nama: <span style="color: red;">Aan Suryadi</span>
-+ Alamat: <span style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</span>
-+ No. Telp/Hp: <span style="color: red;">081214937xxx</span>
++ Kode Produk: <span style="color: red;">**YCW**</span>
++ Jumlah Pemesanan: <span style="color: red;">**2 Botol**</span>
++ Nama: <span style="color: red;">**Aan Suryadi**</span>
++ Alamat: <span style="color: red;">**Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat**</span>
++ No. Telp/Hp: <span style="color: red;">**081214937xxx**</span>
 
-Kirim Ke: 082.215.649.991
+**Kirim Ke: 082.215.649.991**
 {: style="text-align: center; color: green;"}
 
 Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
