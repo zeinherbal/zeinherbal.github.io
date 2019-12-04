@@ -16,17 +16,17 @@
   </head>
 
   <body>
-    {% if site.permalink %}
-      <div id="main" role="main" class="container">
-        {{ content }}
-      </div>
-    {% else %}
+    {% if site.baseurl %}
       <div class="wrapper-masthead">
         <div class="container">
           {% include header.html %}
         </div>
       </div>
 
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
+    {% else %}
       <div id="main" role="main" class="container">
         {{ content }}
       </div>
