@@ -14,7 +14,6 @@ Khusus untuk hari ini:
 — <span style="color: #ff2bc6;">Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</span>
 
 — <span style="color: #ff2bc6;">Pesan 2 Botol - Gratis Ongkos Kirim</span>
-{: style="text-align: center;"}
 
 Pengobatan dengan serius tentunya sangat diperlukan. Karena kondisi sakit buah zakar bisa mengakibatkan:
 
