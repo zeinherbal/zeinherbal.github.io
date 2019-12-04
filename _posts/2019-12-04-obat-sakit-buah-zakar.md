@@ -50,7 +50,7 @@ Adapun khasiat lainnya adalah:
 
 ## Berapa harga perbotol Lycozein?
 
-<div style="border: solid 4px green; border-radius: 3px; padding: 9px; text-align: center; font-weight: bold;">
+<div style="border: solid 4px green; border-radius: 3px; padding: 4px; text-align: center; font-weight: bold;">
 <span style="color: red;">Harga 1 Botol Lycozein</span>
 <br>
 <br>
@@ -80,13 +80,17 @@ Obat herbal Lycozein ini mengandung zat yang mampu meredakan gejala dari nyeri d
 
 <div style="border: solid 3px red; border-radius: 3px; padding: 9px;">
 <h3>Khasiat Lycozein Untuk Sakit Buah Zakar</h3>
-
+<br>
+<br>
 Tomat sendiri mengandung likopen yang bisa memberantas penyakit di sistem reproduksi pria dan mencegah kanker.
-
+<br>
+<br>
 <strong><em>Serta anti-inflamasinya yang dapat mengatasi peradangan. Juga mengempiskan pembengkakan atau rasa nyeri di buah zakar.</em></strong>
-
+<br>
+<br>
 <strong><em>Sedangan minyak zaitun mengandung antioksidan tinggi yang bisa mempercepat penyembuhan penyakit yang terjadi di buah zakar.</em></strong>
-
+<br>
+<br>
 Juga, merelaksasi kondisi buah zakar yang menegang akibat peradangan.
 </div>
 
@@ -193,3 +197,4 @@ Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 
 <a style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;" href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YCW%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via SMS</a>
 {: style="text-align: center;"}
+
