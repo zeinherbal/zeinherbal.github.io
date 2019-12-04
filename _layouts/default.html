@@ -17,16 +17,16 @@
 
   <body>
     {% if site.baseurl %}
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
+    {% else %}
       <div class="wrapper-masthead">
         <div class="container">
           {% include header.html %}
         </div>
       </div>
 
-      <div id="main" role="main" class="container">
-        {{ content }}
-      </div>
-    {% else %}
       <div id="main" role="main" class="container">
         {{ content }}
       </div>
