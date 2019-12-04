@@ -25,7 +25,7 @@ Pengobatan dengan serius tentunya sangat diperlukan. Karena kondisi sakit buah z
 + Matinya jaringan testis akibat kekurangan darah (testicular infarction).
 {: style="color: red;"}
 
-## Jangan Khawatir, Sembuhkan dengan Lycopene/Lycozein
+## Jangan Khawatir, Sembuhkan dengan Lycozein
 
 ![Produk Lycozein](https://1.bp.blogspot.com/-dOfVi4c-mOA/XYMDVyBCy8I/AAAAAAAAAN8/P45cLC2lL64qpOl9WZTKiihVvtSIS3pvACPcBGAYYCw/s320/lycozein3.jpg)
 {: style="text-align: center;"}
@@ -80,7 +80,6 @@ Obat herbal Lycozein ini mengandung zat yang mampu meredakan gejala dari nyeri d
 
 <div style="border: solid 3px red; border-radius: 3px; padding: 9px;">
 <h3>Khasiat Lycozein Untuk Sakit Buah Zakar</h3>
-<br>
 <br>
 Tomat sendiri mengandung likopen yang bisa memberantas penyakit di sistem reproduksi pria dan mencegah kanker.
 <br>
