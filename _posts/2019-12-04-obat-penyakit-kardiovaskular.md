@@ -131,25 +131,25 @@ Terbuat dari:
 {: style="text-align: center;"}
 
 Terdaftar di BPOM
-{: style="text-align: center;"}
+{: style="text-align: center; font-weight: bold;"}
 
 Lulus pengujian kandungan BPOM RI dengan No Reg 193325781.
 {: style="text-align: center;"}
 
-![original](https://1.bp.blogspot.com/-sWzg-YjO5G0/XX8p9aOworI/AAAAAAAAANI/3sWSO29Il0oMI_nkABEer5NJw0ZBNvqWwCNcBGAsYHQ/s1600/logo3.png)
+![original](https://1.bp.blogspot.com/-L_bfJNmmO4A/XX8p9SfURbI/AAAAAAAAANE/XCkkwnvH-7U5zBA4BqQ9YrOgyQaIjVtKgCEwYBhgL/s1600/logo1.png)
 {: style="text-align: center;"}
 
 100% Original
-{: style="text-align: center;"}
+{: style="text-align: center; font-weight: bold;"}
 
 Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.
 {: style="text-align: center;"}
 
-![halal](https://1.bp.blogspot.com/-sWzg-YjO5G0/XX8p9aOworI/AAAAAAAAANI/3sWSO29Il0oMI_nkABEer5NJw0ZBNvqWwCNcBGAsYHQ/s1600/logo3.png)
+![halal](https://1.bp.blogspot.com/-18NLbwGfstY/XX8p9kpdvEI/AAAAAAAAANM/jSWg0IWsIqUzC_zCNU-JPwBdS81-r81kgCEwYBhgL/s1600/logo2.png)
 {: style="text-align: center;"}
 
 Teruji Halal
-{: style="text-align: center;"}
+{: style="text-align: center; font-weight: bold;"}
 
 Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
 {: style="text-align: center;"}
