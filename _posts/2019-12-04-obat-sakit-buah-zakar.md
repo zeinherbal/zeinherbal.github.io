@@ -12,6 +12,7 @@ Khusus untuk hari ini:
 {: style="text-align: center;"}
 
 — <span style="color: #ff2bc6;">Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</span>
+
 — <span style="color: #ff2bc6;">Pesan 2 Botol - Gratis Ongkos Kirim</span>
 {: style="text-align: center;"}
 
@@ -49,7 +50,7 @@ Adapun khasiat lainnya adalah:
 
 ## Berapa harga perbotol Lycozein?
 
-<div style="border: solid 3px greenlight; border-radius: 3px; padding: 9px; text-align: center; font-weight: bold;">
+<div style="border: solid 4px green; border-radius: 3px; padding: 9px; text-align: center; font-weight: bold;">
 <span style="color: red;">Harga 1 Botol Lycozein</span>
 <br>
 <br>
@@ -78,13 +79,13 @@ Obat herbal Lycozein ini mengandung zat yang mampu meredakan gejala dari nyeri d
 <span style="color: red;">Kok bisa?</span> Karena produk Lycozein ini terbuat dari ekstrak tomat dan minyak zaitun, yang mana berdasarkan penelitian kombinasi kedua bahan tersebut mampu mengatasi beragam kondisi yang terjadi di sistem reproduksi pria, seperti di buah zakar.
 
 <div style="border: solid 3px red; border-radius: 3px; padding: 9px;">
-### Khasiat Lycozein Untuk Sakit Buah Zakar
+<h3>Khasiat Lycozein Untuk Sakit Buah Zakar</h3>
 
 Tomat sendiri mengandung likopen yang bisa memberantas penyakit di sistem reproduksi pria dan mencegah kanker.
 
-***Serta anti-inflamasinya yang dapat mengatasi peradangan. Juga mengempiskan pembengkakan atau rasa nyeri di buah zakar.***
+<strong><em>Serta anti-inflamasinya yang dapat mengatasi peradangan. Juga mengempiskan pembengkakan atau rasa nyeri di buah zakar.</em></strong>
 
-***Sedangan minyak zaitun mengandung antioksidan tinggi yang bisa mempercepat penyembuhan penyakit yang terjadi di buah zakar.***
+<strong><em>Sedangan minyak zaitun mengandung antioksidan tinggi yang bisa mempercepat penyembuhan penyakit yang terjadi di buah zakar.</em></strong>
 
 Juga, merelaksasi kondisi buah zakar yang menegang akibat peradangan.
 </div>
@@ -124,6 +125,7 @@ Saya bersyukur sekali atas jalan yang tidak disangka-sangka ini dan saya berdo�
 ## Komposisi Lycozein
 
 ![Komposisi Lycozein](https://1.bp.blogspot.com/-_4Yp2M5PnFk/XX8o1X6aFmI/AAAAAAAAAM4/68k0SsSzcFoeoC1L6h_ibKc8bEvL8dTGwCNcBGAsYHQ/s320/tomat-dan-zaitun.jpg)
+{: style="text-align: center;"}
 
 TERBUAT DARI:
 
@@ -141,22 +143,28 @@ TERBUAT DARI:
 {: style="text-align: center;"}
 
 **Terdaftar di BPOM**
+{: style="text-align: center;"}
 
 Lulus pengujian kandungan BPOM RI dengan No Reg 193330751.
+{: style="text-align: center;"}
 
 ![LOGO ORIGINAL](https://1.bp.blogspot.com/-L_bfJNmmO4A/XX8p9SfURbI/AAAAAAAAANE/XCkkwnvH-7U5zBA4BqQ9YrOgyQaIjVtKgCEwYBhgL/s1600/logo1.png)
 {: style="text-align: center;"}
 
 **100% Original**
+{: style="text-align: center;"}
 
 Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.
+{: style="text-align: center;"}
 
 ![LOGO HALAL](https://1.bp.blogspot.com/-18NLbwGfstY/XX8p9kpdvEI/AAAAAAAAANM/jSWg0IWsIqUzC_zCNU-JPwBdS81-r81kgCEwYBhgL/s1600/logo2.png)
 {: style="text-align: center;"}
 
 **Teruji Halal**
+{: style="text-align: center;"}
 
 Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
+{: style="text-align: center;"}
 
 ## Penggunaan produk Lycozein
 
@@ -166,7 +174,7 @@ Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
 
 Untuk cara pemesanannya sangat mudah sekali.
 
-Anda cukup mengirimkan SMS / WA Ke No. 082.215.649.991 dengan mencantumkan kode produk YCW seperti contoh dibawah ini :
+Anda cukup mengirimkan SMS / WA Ke No. 082.215.649.991 dengan mencantumkan kode produk <span style="color: red;">**YCW**</span> seperti contoh dibawah ini :
 
 + Kode Produk: <span style="color: red;">**YCW**</span>
 + Jumlah Pemesanan: <span style="color: red;">**2 Botol**</span>
