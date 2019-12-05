@@ -3,20 +3,23 @@ layout: post
 title: Obat Penyempitan Saluran Pernapasan QnC Jelly Gamat [Terbukti Manjur]
 ---
 
-Dadamu terasa sesak, bahkan ketika beraktivitas seperti biasa? Itu mungkin penyempitan saluran napas. Segera obati, agar tidak semakin parah. Dan obat herbal **QnC Jelly Gamat** bisa menjadi pilihan terbaik dalam mengobati peyempitan saluran pernapasan secara alami.
+Dadamu terasa sesak, bahkan ketika beraktivitas seperti biasa? Itu mungkin penyempitan saluran napas. **Segera obati, agar tidak semakin parah. Dan obat herbal** ***<span style="color: gold;">QnC Jelly Gamat</span>*** **bisa menjadi pilihan terbaik dalam mengobati peyempitan saluran pernapasan secara alami**.
 
-Ada banyak penyebab yang menimbulkan penyempitan sarluran pernapasan, seperti radang di saluran napas, di paru-paru, mengalami pneumonia, pembengkakan jantung, dsb.
+Ada banyak penyebab yang menimbulkan penyempitan saluran pernapasan, seperti radang di saluran napas, di paru-paru, mengalami pneumonia, pembengkakan jantung, dsb.
 
-Produk QnC Jelly Gamat ini 100% terbuat dari teripang emas dan madu murni. Dengan aktivitas biologis dan farmakologis uniknya penyempitan saluran pernapasan bisa diatasi secara efektif.
+Produk QnC Jelly Gamat ini 100% terbuat dari **teripang emas** dan **madu murni**. ***Dengan aktivitas biologis dan farmakologis uniknya penyempitan saluran pernapasan bisa diatasi secara efektif***.
 
-QnC Jelly Gamat sudah lulus uji di BPOM RI dan juga Badan Halal MUI. Harganya Rp155.000 perbotol (1 botol 300 ml). 
+QnC Jelly Gamat sudah lulus uji di BPOM RI dan juga Badan Halal MUI. <strong style="color: chartreuse">Harganya Rp155.000 perbotol (1 botol 300 ml)</strong>.
 
-Anda bisa langsung memesannya di sini, dengan layanan <strong style="color: red">"Kirim Barang Dahulu, Barang Sampai Bayar"</strong>. Layanan ini hanya untuk <em style="color: purple">pemesanan 1-2 botol saja</em>. Klik tombol di bawah ini untuk langsung memesannya via WA.
+Anda bisa langsung memesannya di sini, dengan layanan <strong style="color: red">"Kirim Barang Dahulu, Barang Sampai Bayar"</strong>. Layanan ini hanya untuk <em style="color: purple">**pemesanan 1-2 botol saja**</em>. Klik tombol di bawah ini untuk langsung memesannya via WA.
 
-<a href="#" style="background-color: dodgerblue; border: solid 4px dodgerblue; border-radius: 4px; padding: 10px;">PESAN SEKARANG via WA</a>
+<a href="#" style="background-color: dodgerblue; border: solid 4px dodgerblue; border-radius: 4px; padding: 10px; color: white">PESAN SEKARANG via WA</a>
 {: style="text-align: center;"}
 
 ## Penyebab dari sesak napas/penyempitan saluran napas
+
+![ilustrasi](https://1.bp.blogspot.com/-ty3JA1mJC5I/XeiuEUvk4fI/AAAAAAAAAXU/uOrJBrxXVskJ8j6mw-4DGAr2Hbs6BBX-gCNcBGAsYHQ/s1600/penyempitan%2Bnapas.jpg)
+{: style="text-align: center;"}
 
 Sebagian besar penyebab sesak napas adalah akibat gangguan dari organ jantung dan paru-paru.
 
