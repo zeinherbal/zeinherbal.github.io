@@ -14,9 +14,9 @@ QnC Jelly Gamat sudah lulus uji di BPOM RI dan juga Badan Halal MUI. <strong sty
 Anda bisa langsung memesannya di sini, dengan layanan <strong style="color: red">"Kirim Barang Dahulu, Barang Sampai Bayar"</strong>. Layanan ini hanya untuk <em style="color: purple">**pemesanan 1-2 botol saja**</em>. Klik tombol di bawah ini untuk langsung memesannya via WA.
 
 <br>
-<br>
 <a href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC Jelly Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GIY%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: dodgerblue; border: solid 4px dodgerblue; border-radius: 4px; padding: 10px; color: white">PESAN SEKARANG via WA</a>
 {: style="text-align: center;"}
+
 
 ## Penyebab dari sesak napas/penyempitan saluran napas
 
@@ -96,13 +96,7 @@ Jadi, demikian bagaimana produk QnC Gamat ini bisa menjadi ***obat penyempitan s
 ![testimoni penyempitan saluran pernapasan 2](https://1.bp.blogspot.com/-Lqrmo_LFjNA/XeinJVkK-II/AAAAAAAAAWs/JcJjhNQGtd8obT0yrj-VKqrkwQ7bXPaeACNcBGAsYHQ/s1600/pp2.jpg)
 {: style="text-align: center;"}
 
-![testimoni penyempitan saluran pernapasan 3](https://1.bp.blogspot.com/-nkyIub7_jtQ/XeinJMVotuI/AAAAAAAAAWk/9iRqch0P3sASpRGQbXo5GtJ-7vzVx-GOwCNcBGAsYHQ/s1600/pp3.jpg)
-{: style="text-align: center;"}
-
 ![testimoni penyempitan saluran pernapasan 4](https://1.bp.blogspot.com/-tTlax_d47VI/XeinKNKclnI/AAAAAAAAAWw/IvtrIYXKJYAwMGMp8ykFAMSf08-f473pwCNcBGAsYHQ/s1600/pp4.jpg)
-{: style="text-align: center;"}
-
-![testimoni penyempitan saluran pernapasan 5](https://1.bp.blogspot.com/-UZ80xxFOUi8/XeinKgj_xLI/AAAAAAAAAW0/f7lOk7yPCeoZJlwvDqWJymLKuOy_ueBTwCNcBGAsYHQ/s1600/pp5.jpg)
 {: style="text-align: center;"}
 
 ![testimoni penyempitan saluran pernapasan 6](https://1.bp.blogspot.com/-034-FL2J0f0/XeinKtQrESI/AAAAAAAAAW4/lzlIuyH5oIYQvCnRQKWaVjUwcQjzU3wrQCNcBGAsYHQ/s1600/pp6.jpg)
