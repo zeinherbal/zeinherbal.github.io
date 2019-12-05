@@ -12,7 +12,8 @@ Produk QnC Jelly Gamat ini 100% terbuat dari **teripang emas** dan **madu murni*
 QnC Jelly Gamat sudah lulus uji di BPOM RI dan juga Badan Halal MUI. <strong style="color: chartreuse">Harganya Rp155.000 perbotol (1 botol 300 ml)</strong>.
 
 Anda bisa langsung memesannya di sini, dengan layanan <strong style="color: red">"Kirim Barang Dahulu, Barang Sampai Bayar"</strong>. Layanan ini hanya untuk <em style="color: purple">**pemesanan 1-2 botol saja**</em>. Klik tombol di bawah ini untuk langsung memesannya via WA.
-
+<br>
+<br>
 <a href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC Jelly Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GIY%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: dodgerblue; border: solid 4px dodgerblue; border-radius: 4px; padding: 10px; color: white">PESAN SEKARANG via WA</a>
 {: style="text-align: center;"}
 
