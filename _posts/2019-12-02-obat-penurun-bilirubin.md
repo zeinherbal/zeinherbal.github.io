@@ -146,7 +146,7 @@ Dikonsumsi langsung
 + Anak-anak: 1 sendok makan 2 kali sehari.
 + Dewasa: 2-3 sendok makan 2-3 kali sehari.
 
-Bagaimana Cara Pemesanannya?
+## Bagaimana Cara Pemesanannya?
 
 Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.321.005.009 dengan mencantumkan kode produk NQA seperti contoh dibawah ini :
 
