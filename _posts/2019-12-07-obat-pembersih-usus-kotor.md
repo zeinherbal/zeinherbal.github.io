@@ -3,38 +3,38 @@ layout: post
 title: Obat Pembersih Usus Kotor Herbal QnC Jelly Gamat [Terbukti Ampuh]
 ---
 
-Anda mengeluhkan kembung, mual, maag, hingga GERD? Keluhan tersebut mungkin diakibatkan oleh usus kotor. Usus kotor ini merupakan kondisi usus yang dipenuhi dengan toksin dan kotoran.
+**Anda mengeluhkan kembung, mual, maag, hingga GERD?** Keluhan tersebut mungkin diakibatkan oleh usus kotor. Usus kotor ini merupakan kondisi usus yang dipenuhi dengan toksin dan kotoran.
 
 Terdapat beragam hal yang bisa memicu terjadinya usus kotor ini, seperti mengonsumsi makanan tinggi lemak, tinggi gula, jarang atau kurang mengonsumsi sayur dan buah, dan banyak lagi.
 
 ***Bila kondisi usus kotor tersebut tidak diatas, tubuh penderita mungkin bisa mengalami komplikasi.***
 
-Usus kotor bisa secara efektif diatasi/dibersihkan dengan produk obat berbahan alami. Mengapa harus dengan bahan alami? Karena bahan alami tidak akan timbulkan efek samping jangka panjang dan tidak timbulkan ketergantungan, serta kandungannya sangat efektif daripada obat kimia.
+**Usus kotor bisa secara efektif diatasi/dibersihkan dengan produk obat berbahan alami. Mengapa harus dengan bahan alami?** <span style="color: red;">Karena bahan alami tidak akan timbulkan efek samping jangka panjang dan tidak timbulkan ketergantungan, serta kandungannya sangat efektif daripada obat kimia</span>.
 
 Di situs Zein Herbal ini kami sangat merekomendasikan produk obat herbal <strong style="color: gold">QnC Jelly Gamat</strong>.
 
-Produk ini terbuat dari teripang emas dan madu murni. Khasiat di dalam produk ini terbukti berdasarkan penelitian mampu membersihkan kondisi usus kotor. Dan beragam hal lain yang sebabkan usus kotor.
+Produk ini terbuat dari ***teripang emas*** dan ***madu murni***. Khasiat di dalam produk ini terbukti berdasarkan penelitian mampu membersihkan kondisi usus kotor. Dan beragam hal lain yang sebabkan usus kotor.
 
 Khusus untuk hari ini:
-{: style="text-center: center"}
+{: style="text-align: center"}
 
 — <strong style="color: lawngreen">Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</strong> —
-{: style="text-center: center"}
+{: style="text-align: center"}
 
-QnC Jelly Gamat sudah lulus uji di BPOM RI dan juga Badan Halal MUI. <strong style="color: chartreuse">Harganya Rp155.000 perbotol (1 botol 300 ml)</strong>.
+QnC Jelly Gamat sudah lulus uji di **BPOM RI** dan juga **Badan Halal MUI**. <strong style="color: chartreuse">Harganya Rp155.000 perbotol (1 botol 300 ml)</strong>.
 
 Anda bisa langsung memesannya di sini, dengan layanan <strong style="color: red">"Kirim Barang Dahulu, Barang Sampai Bayar"</strong>. Layanan ini hanya untuk <em style="color: purple">**pemesanan 1-2 botol saja**</em>.
 
 ## QnC Jelly Gamat efektif membersihkan usus kotor
 
 ![QnC Jelly Gamat](https://2.bp.blogspot.com/-ZqoptIpzxV0/WjiqXwgcmeI/AAAAAAAAAGc/w9p2MzJnaN4T369kRzyMIgpeQw3vfS2RgCLcBGAs/s1600/medium1.JPG)
-{: style="text-center: center"}
+{: style="text-align: center"}
 
-Obat herbal pembersih usus ini memiliki aktivitas bioaktifnya, protein, mineral, dan ragam kandungan lainnya.
+Obat herbal pembersih usus ini memiliki aktivitas bioaktifnya, protein, mineral, dan ragam kandungan lainnya. ***Tentunya memiliki manfaat yang sangat baik untuk pembersihan usus***.
 
-Terkait aktivitas bioaktif dalam produk herbal ini, di dalamnya terdapat anti-inflamasi yang sanggup mengatasi peradangan di dalam usus.
+Terkait aktivitas bioaktif dalam produk herbal ini, ***di dalamnya terdapat anti-inflamasi yang sanggup mengatasi peradangan di dalam usus***.
 
-Mulai dari peradangan akibat infeksi, alergi, atau hal lainnya. Dan juga meredakan gejala dari radang tersebut.
+Mulai dari ***peradangan akibat infeksi, alergi, atau hal lainnya***. Dan juga ***meredakan gejala dari radang tersebut***.
 
 Ada juga <strong style="color: red">antimikroba<strong style="color: red">, <strong style="color: red">antibakteri<strong style="color: red">, dan <strong style="color: red">antivirus<strong style="color: red"> yang paling berperan dalam mengatasi infeksi dan penyebab infeksi.
 
@@ -67,13 +67,13 @@ Hanya <strong>Rp155.000</strong>,- Saja
 ## Testimoni QnC Jelly Gamat sebagai obat pembersih usus
 
 ![QnC Jelly Gamat](https://1.bp.blogspot.com/-2UluIf2_NMY/XesslzpPoLI/AAAAAAAAAXs/tMpMDoi6xfQjKR0DUftI6-DIHbX9TGOywCNcBGAsYHQ/s320/uss1.jpg)
-{: style="text-center: center"}
+{: style="text-align: center"}
 
 ![QnC Jelly Gamat](https://1.bp.blogspot.com/-Tm1Xdq8Rm-E/Xessl9XReiI/AAAAAAAAAXw/kGE2mg0urLo8TQJA_RiMCSTwAbAz-CsSwCNcBGAsYHQ/s320/uss2.jpg)
-{: style="text-center: center"}
+{: style="text-align: center"}
 
 ![QnC Jelly Gamat](https://1.bp.blogspot.com/-p9h5Kd65rIg/Xessl17h6PI/AAAAAAAAAX0/uXa8q5u5HzMmlwm3YKhynhv0fLB8sM3_QCNcBGAsYHQ/s320/uss3.jpg)
-{: style="text-center: center"}
+{: style="text-align: center"}
 
 ## Rincian produk QnC Jelly Gamat
 
