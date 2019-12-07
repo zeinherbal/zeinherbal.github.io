@@ -16,7 +16,7 @@ Yaitu, obat herbal dari sarang semut, namanya **<span style="color: red">Sarmuca
 
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tombol di bawah ini.
 
-<a href="Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;">**PESAN SEKARANG via WA**</a>
+<a href="https://api.whatsapp.com/send?phone=6282215649991&amp;text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;">**PESAN SEKARANG via WA**</a>
 <br>
 <br>
 {: style="text-align: center;"}
