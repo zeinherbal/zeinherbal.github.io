@@ -64,7 +64,7 @@ Hanya <strong>Rp155.000</strong>,- Saja
 <strong><span style="color: red">OBAT DIKIRIM TERLEBIH DAHULU — PEMBAYARAN DI TRANSFER SETELAH OBATNYA SUDAH DITERIMA DENGAN BAIK</span></strong>
 </div>
 
-## Testimoni QnC Jelly Gamat sebagai obat pembersih usus
+## Testimoni QnC Jelly Gamat sebagai obat pembersih usus kotor
 
 ![QnC Jelly Gamat](https://1.bp.blogspot.com/-2UluIf2_NMY/XesslzpPoLI/AAAAAAAAAXs/tMpMDoi6xfQjKR0DUftI6-DIHbX9TGOywCNcBGAsYHQ/s320/uss1.jpg)
 {: style="text-align: center"}
