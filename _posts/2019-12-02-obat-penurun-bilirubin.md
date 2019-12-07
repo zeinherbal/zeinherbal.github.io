@@ -11,7 +11,7 @@ Terdapat beragam penyebab yang bisa timbulkan bilirubin tinggi. Seperti, ***mala
 **Kondisi bilirubin tinggi bila tidak segera diobati bisa menyebabkan beragam masalah serius, yang tentunya dapat mengancam nyawa.**
 {: style="color: #cc0000"}
 
-Dan di situs **Lycoherbal.Com** ini, kami berikan solusi untuk menurunkan kadar bilirubin tinggi. Yaitu dengan produk obat herbal. Namanya <span style="color: #ffa500">QnC Jelly Gamat</span>. Berasal dari ***teripang emas*** dan ***madu murni***.
+Dan di situs **Zein Herbal** ini, kami berikan solusi untuk menurunkan kadar bilirubin tinggi. Yaitu dengan produk obat herbal. Namanya <span style="color: #ffa500">QnC Jelly Gamat</span>. Berasal dari ***teripang emas*** dan ***madu murni***.
 
 <span style="color: #cc0000;">Khusus untuk hari ini:</span>
 {: style="text-align: center;"}
