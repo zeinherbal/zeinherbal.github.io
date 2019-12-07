@@ -69,7 +69,7 @@ Tetapi ada gejala lain dan ketika penderita merasakan keluhan ini mesti segera m
 
 Produk herbal ini terkenal akan kandungan aktivitas bioaktifnya, protein, mineral, dan ragam kandungan lainnya.
 
-Terkait aktivitas bioaktifnya dalam produk herbal ini terdapat anti-inflamasi yang sangguh mengatasi peradangan.
+Terkait aktivitas bioaktifnya dalam produk herbal ini terdapat anti-inflamasi yang sanggup mengatasi peradangan.
 
 **Mulai dari peradangan akibat infeksi atau hal lainnya. Dan juga meredakan gejala dari radang tersebut.**
 {: style="color: chartreuse"}
