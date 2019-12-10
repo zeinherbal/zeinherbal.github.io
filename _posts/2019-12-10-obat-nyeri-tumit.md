@@ -3,7 +3,7 @@ layout: post
 title: Obat Nyeri Tumit Herbal - Samulinpro Sehat Sendi
 ---
 
-Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah. Ini bisa memicu masalah lain di kaki.
+Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, **tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah**. Ini bisa memicu masalah lain di kaki.
 
 Selain rasa sakit, nyeri tumir juga bisa disertai:
 
@@ -13,7 +13,7 @@ Selain rasa sakit, nyeri tumir juga bisa disertai:
 + Bunyi gemertak saat berjalan
 + Sulit berjalan
 
-Nah, untuk menghilangkan rasa sakit tersebut Anda bisa konsumsi produk obat herbal Samulinpro Sehat Sendi, daripada mengonsumsi obat-obatan non-herbal. Obat herbal ini terbuat dari 100% bahan alami, terbukti khasiatnya, dan sudah lulus uji di BPOM RI.
+Nah, untuk menghilangkan rasa sakit tersebut Anda bisa konsumsi produk obat herbal **Samulinpro Sehat Sendi**, daripada mengonsumsi obat-obatan non-herbal. Obat herbal ini terbuat dari **100% bahan alami**, terbukti khasiatnya, dan sudah **lulus uji di BPOM RI**.
 
 Khasiat dari produk ini mampu secara bertahap mengatasi peradangan dan pengapuran yang terjadi di jaringan sekitar tumit.
 
@@ -167,11 +167,11 @@ Untuk cara pemesanannya sangat mudah sekali.
 
 Anda cukup mengirimkan SMS / WA Ke No. **082.215.649.991** dengan mencantumkan kode produk **GYT** seperti contoh dibawah ini:
 
-Kode Produk: **<span style=style="color: red;">GYT</span>**
-Jumlah Pemesanan: **<span style=style="color: red;">2 Botol</span>**
-Nama: **<span style=style="color: red;">Aan Suryadi</span>**
-Alamat: **<span style=style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</span>**
-No. Telp/Hp: **<span style=style="color: red;">081214937xxx</span>**
+Kode Produk: **<span style="color: red;">GYT</span>**
+Jumlah Pemesanan: **<span style="color: red;">2 Botol</span>**
+Nama: **<span style="color: red;">Aan Suryadi</span>**
+Alamat: **<span style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</span>**
+No. Telp/Hp: **<span style="color: red;">081214937xxx</span>**
 
 **Kirim Ke: 082.215.649.991**
 {: style="text-align: center;"}
