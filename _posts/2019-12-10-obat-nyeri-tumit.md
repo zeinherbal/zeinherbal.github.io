@@ -167,11 +167,11 @@ Untuk cara pemesanannya sangat mudah sekali.
 
 Anda cukup mengirimkan SMS / WA Ke No. **082.215.649.991** dengan mencantumkan kode produk **GYT** seperti contoh dibawah ini:
 
-Kode Produk: **<span style="color: red;">GYT</span>**
-Jumlah Pemesanan: **<span style="color: red;">2 Botol</span>**
-Nama: **<span style="color: red;">Aan Suryadi</span>**
-Alamat: **<span style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</span>**
-No. Telp/Hp: **<span style="color: red;">081214937xxx</span>**
++ Kode Produk: **<span style="color: red;">GYT</span>**
++ Jumlah Pemesanan: **<span style="color: red;">2 Botol</span>**
++ Nama: **<span style="color: red;">Aan Suryadi</span>**
++ Alamat: **<span style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</span>**
++ No. Telp/Hp: **<span style="color: red;">081214937xxx</span>**
 
 **Kirim Ke: 082.215.649.991**
 {: style="text-align: center;"}
