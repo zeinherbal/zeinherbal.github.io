@@ -116,7 +116,7 @@ Produk herbal Samulinpro Sehat Sendi ini diproduksi oleh **CV. SAMI MANDJOER**, 
 	</ul>
 </div>
 
-Produk herbal Samulinpro Sehat Sendiini sudah lolos uji lab di **BPOM RI** dengan no reg **TR173306941**. Dan juga lolos uji halal, di **Badan Sertifikasi Halal MUI**.
+Produk herbal Samulinpro Sehat Sendi ini sudah lolos uji lab di **BPOM RI** dengan no reg **TR173306941**. Dan juga lolos uji halal, di **Badan Sertifikasi Halal MUI**.
 
 Proses produksi Samulinpro Sehat Sendi ini menggunakan alat dengan teknologi nano. Alat ini bisa mengubah bahan mentah menjadi ekstrak berbentuk bubuk dengan ukuran nano.
 
