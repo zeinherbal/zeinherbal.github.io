@@ -149,10 +149,28 @@ TERBUAT DARI:
 ![logo 1](https://1.bp.blogspot.com/-sWzg-YjO5G0/XX8p9aOworI/AAAAAAAAANI/3sWSO29Il0oMI_nkABEer5NJw0ZBNvqWwCNcBGAsYHQ/s1600/logo3.png)
 {: style="text-align: center;"}
 
+**Terdaftar di BPOM**
+{: style="text-align: center;"}
+
+Lulus pengujian kandungan BPOM RI dengan No Reg TR173306941.
+{: style="text-align: center;"}
+
 ![logo 2](https://1.bp.blogspot.com/-L_bfJNmmO4A/XX8p9SfURbI/AAAAAAAAANE/XCkkwnvH-7U5zBA4BqQ9YrOgyQaIjVtKgCEwYBhgL/s1600/logo1.png)
 {: style="text-align: center;"}
 
+100% Original
+{: style="text-align: center;"}
+
+Produk 100% Asli dan Alami. Garansi 100% uang kembali, bila palsu.
+{: style="text-align: center;"}
+
 ![logo 3](https://1.bp.blogspot.com/-18NLbwGfstY/XX8p9kpdvEI/AAAAAAAAANM/jSWg0IWsIqUzC_zCNU-JPwBdS81-r81kgCEwYBhgL/s1600/logo2.png)
+{: style="text-align: center;"}
+
+Teruji Halal
+{: style="text-align: center;"}
+
+Telah lulus uji kehalalan di Badan Halal MUI. Baik untuk semua umur.
 {: style="text-align: center;"}
 
 ## Penggunaan produk Samulinpro Sehat Sendi
