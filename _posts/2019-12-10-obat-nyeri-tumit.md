@@ -3,7 +3,7 @@ layout: post
 title: Obat Nyeri Tumit Herbal - Samulinpro Sehat Sendi
 ---
 
-Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, **tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah**. Ini bisa memicu masalah lain di kaki.
+Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, **tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah**. Bila dibiarkan kondisi tersebut bisa memicu masalah lain di kaki.
 
 Selain rasa sakit, nyeri tumir juga bisa disertai:
 
@@ -21,9 +21,9 @@ Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan 
 
 Khusus untuk hari ini:
 
-‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima
+**‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima**
 
-‒ Pesan 2 Botol - Gratis Ongkos Kirim
+**‒ Pesan 2 Botol - Gratis Ongkos Kirim**
 
 ## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
 
