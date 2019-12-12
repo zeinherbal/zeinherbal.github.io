@@ -21,9 +21,9 @@ Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan 
 
 <div style="border-left: 5px red solid; padding-left: 9px;">
 Khusus untuk hari ini:
-
+<br>
 **<span style="color: red;">‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</span>**
-
+<br>
 **<span style="color: red;">‒ Pesan 2 Botol - Gratis Ongkos Kirim</span>**
 </div>
 
