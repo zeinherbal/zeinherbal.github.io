@@ -23,10 +23,10 @@ Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan 
 Khusus untuk hari ini:
 <br/>
 <br/>
-<span style="color: red;">**‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima**</span>
+<strong style="color: red;">‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</strong>
 <br/>
 <br/>
-<span style="color: red;">**‒ Pesan 2 Botol - Gratis Ongkos Kirim**</span>
+<strong style="color: red;">‒ Pesan 2 Botol - Gratis Ongkos Kirim</strong>
 </div>
 
 ## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
