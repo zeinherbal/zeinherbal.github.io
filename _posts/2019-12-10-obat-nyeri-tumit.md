@@ -20,7 +20,7 @@ Khasiat dari produk ini mampu secara bertahap mengatasi peradangan dan pengapura
 Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan Daun Salam.
 
 <div style="border-left: 5px red solid; padding-left: 9px;">
-Khusus untuk hari ini:
+<strong>Khusus untuk hari ini:</strong>
 <br/>
 <br/>
 <strong style="color: red;">‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</strong>
