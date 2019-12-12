@@ -34,9 +34,7 @@ Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan 
 ![Samulinpro](https://1.bp.blogspot.com/-58IFfXgIN4I/Xcke2RNBwnI/AAAAAAAAATA/B2XEieyxYDU-jJHZKoobpIU18evtMtYWgCNcBGAsYHQ/s1600/samulin.png)
 {: style="text-align: center;"}
 
-<h3>
-	<span style="color: lime;">Khasiat Samulinpro Sehat Sendi</span>
-</h3>
+### Khasiat Samulinpro Sehat Sendi
 
 <strong>Kok bisa?</strong> Karena produk Samulinpro Sehat Sendi ini terbuat dari 100% <strong>Akar Kuning</strong>, <strong>Bratawali</strong>, dan <strong>Daun Salam</strong> berkualitas.
 
