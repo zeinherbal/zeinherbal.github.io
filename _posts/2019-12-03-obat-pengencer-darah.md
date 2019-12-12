@@ -42,7 +42,22 @@ Dengan beragam kandungan dalam Sarmucare ini kondisi darah yang kental dalam tub
 
 Sehingga beragam keluhan dan risiko penyakit serius hilang.
 
-Kandungan <span style="color: red">***efek kardiovaskular***</span>, <span style="color: red">***antioksidan***</span>, dan <span style="color: red">***efek vaskular***</span> Sarang Semut Sarmucare bisa membantu tubuh dalam mengencerkan darah.
+<div style="border-radius: 3px; border: 3px solid rgb(255, 204, 204); padding: 10px;">
+	<h3>Khasiat Sarmucare untuk mengatasi darah kental</h3>
+	<strong>Kok bisa?</strong> Karena produk Sarmucare ini terbuat dari 100% <strong><span style="color: #cc0000;">Ekstrak Sarang Semut</span></strong> berkualitas.
+	<br>
+	<br>
+	<span style="color: magenta;"><strong>Kualitas kandungan Sarmucare ini berdasarkan penelitian mampu mengatasi kondisi darah yang mengental</strong></span>.
+	<br>
+	<br>
+	Karena hasil penelitian menunjukan Sarang Semut ini memiliki <strong><span style="color: cyan;">anti-inflamasi, antimikroba, antineoplastik, sifat anxiolytic, efek kardiovaskular, efek vaskular, efek neuroprotektif, dsb</span></strong>.
+	<br>
+	<br>
+	Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan kesehatan tubuh.
+	<br>
+	<br>
+	Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
+</div>
 
 Ragam kandungan lain juga tentunya bisa membantu tubuh menjadi lebih sehat.
 
@@ -81,23 +96,6 @@ Dan adapun beragam khasiat dari Sarmucare ini adalah:
 </div>
 
 Produk herbal Sarmucare ini diproduksi oleh **CV. SAMI MANDJOER**, yang berlokasi di *Kab. Kulon Progo, DI Yogyakarta*.
-
-<div style="border-radius: 3px; border: 3px solid rgb(255, 204, 204); padding: 10px;">
-	<h3>Khasiat Sarmucare untuk mengatasi darah kental</h3>
-	<strong>Kok bisa?</strong> Karena produk Sarmucare ini terbuat dari 100% <strong><span style="color: #cc0000;">Ekstrak Sarang Semut</span></strong> berkualitas.
-	<br>
-	<br>
-	<span style="color: magenta;"><strong>Kualitas kandungan Sarmucare ini berdasarkan penelitian mampu mengatasi kondisi darah yang mengental</strong></span>.
-	<br>
-	<br>
-	Karena hasil penelitian menunjukan Sarang Semut ini memiliki <strong><span style="color: cyan;">anti-inflamasi, antimikroba, antineoplastik, sifat anxiolytic, efek kardiovaskular, efek vaskular, efek neuroprotektif, dsb</span></strong>.
-	<br>
-	<br>
-	Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan kesehatan tubuh.
-	<br>
-	<br>
-	Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
-</div>
 
 Produk herbal Sarmucare ini sudah lolos uji lab di **BPOM RI** dengan no reg **193325781**. Dan juga lolos uji halal, di **Badan Sertifikasi Halal MUI**.
 
