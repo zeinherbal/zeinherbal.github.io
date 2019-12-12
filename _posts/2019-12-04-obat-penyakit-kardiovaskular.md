@@ -6,9 +6,9 @@ description: Sarmucare adalah obat penyakit kardiovaskular yang sudah terbukti m
 
 Penyakit kardiovaskular ini disebabkan oleh gangguan pada jantung dan pembuluh darah. Sehingga penyakit ini erat kaitanya dengan penyakit jantung atau kolesterol jahat.
 
-Anda harus segera melakukan pengobatan bila mengalami penyakit kardiovaskular ini. **Karena bila dibiarkan kondisinya akan bertambah parah dan bahkan bisa sebabkan kematian**.
+Anda harus segera melakukan pengobatan bila mengalami penyakit kardiovaskular ini. <strong style="color: coral;">Karena bila dibiarkan kondisinya akan bertambah parah dan bahkan bisa sebabkan kematian</strong>.
 
-Dan untuk pengobatannya kami sangat menyarankan obat herbal atau berbahan alamai sebagai obat ampuh untuk mengobati penyakit kardiovaskular. Nama produknya Sarang Semut Sarmucare.
+Untuk pengobatan kami sangat menyarankan obat herbal atau obat berbahan alami sebagai cara ampuh untuk mengobati penyakit kardiovaskular. Nama produknya Sarang Semut Sarmucare.
 
 > Zat dan senyawa dalam Sarmucare ini bisa melancarka kembali kondisi dari pembuluh darah dan juga menormalkan darah yang kental/tidak normal.
 
