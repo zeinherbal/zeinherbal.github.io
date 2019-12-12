@@ -16,10 +16,10 @@ Untuk hari ini:
 {: style="text-align: center;"}
 
 **—Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima—**
-{: style="color: teal;"}
+{: style="color: red;"}
 
 **—Pesan 2 Botol - Gratis Ongkos Kirim—**
-{: style="color: teal;"}
+{: style="color: red;"}
 
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. Klik saja tombol di bawah ini.
 
