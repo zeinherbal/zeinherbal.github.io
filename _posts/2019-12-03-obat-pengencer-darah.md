@@ -18,10 +18,10 @@ Solusinya yaitu, obat herbal dari sarang semut, namanya **<span style="color: re
 {: style="text-align: center;"}
 
 —Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima—
-{: style="color: red; text-align: center;"}
+{: style="color: red; text-align: center; font-weight: bold;"}
 
 —Pesan 2 Botol - Gratis Ongkos Kirim—
-{: style="color: red; text-align: center;"}
+{: style="color: red; text-align: center; font-weight: bold;"}
 
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. 
 
