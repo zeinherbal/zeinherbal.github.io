@@ -19,11 +19,13 @@ Khasiat dari produk ini mampu secara bertahap mengatasi peradangan dan pengapura
 
 Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan Daun Salam.
 
+<div style="border-left: 5px red solid; padding-left: 9px;">
 Khusus untuk hari ini:
 
-**‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima**
+**<span style="color: red;">‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</span>**
 
-**‒ Pesan 2 Botol - Gratis Ongkos Kirim**
+**<span style="color: red;">‒ Pesan 2 Botol - Gratis Ongkos Kirim</span>**
+</div>
 
 ## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
 
