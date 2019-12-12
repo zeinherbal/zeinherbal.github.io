@@ -34,6 +34,37 @@ Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari Akar Kuning, Bratawali, dan 
 ![Samulinpro](https://1.bp.blogspot.com/-58IFfXgIN4I/Xcke2RNBwnI/AAAAAAAAATA/B2XEieyxYDU-jJHZKoobpIU18evtMtYWgCNcBGAsYHQ/s1600/samulin.png)
 {: style="text-align: center;"}
 
+<div style="border-radius: 3px; border: 3px solid rgb(255, 204, 204); padding: 10px;">
+	<h3 style="text-align: left;">
+		<span style="color: lime;">Khasiat Samulinpro Sehat Sendi</span>
+	</h3>
+	<div style="text-align: left;">
+		<strong>Kok bisa?</strong> Karena produk Samulinpro Sehat Sendi ini terbuat dari 100% <strong>Akar Kuning</strong>, <strong>Bratawali</strong>, dan <strong>Daun Salam</strong> berkualitas.
+	</div>
+	<br>
+	<div style="text-align: left;">
+		<strong>Kualitas kandungan Samulinpro Sehat Sendi ini berdasarkan penelitian mampu mengatasi kondisi darah yang mengental</strong>.
+	</div>
+	<br>
+	<div style="text-align: left;">
+		Berikut detail kandungan dan khasiat dari setiap bahannya.
+	</div>
+	<ul>
+		<li style="text-align: left;">
+			<strong><span style="color: magenta;">Daun salam dengan Eugenol dan metil chavicol yang memiliki sifat antijamur dan antibakteri bisa memberantas berbagai pnyebab infeksi.</span></strong>
+		</li>
+		<li style="text-align: left;">
+			<strong><span style=" color: magenta;">Alkaloid berberin dalam akar kuning juga bisa mengatasi kondisi infeksi, karena memiliki zat aktif. Juga bisa menghambat sel tumor dan turunkan tekanan darah.</span></strong>
+		</li>
+		<li style="text-align: left;">
+			<strong><span style="color: magenta;">Ditambah terdapat antibakteri, memiliki efek ekspektoran, bisa turunkan panas, mengatsi hipotensi, mengatasi masalah lambung, sembuhkan penyakit kuning, penyakit cacing, serta gangguan pencernaan.</span></strong>
+		</li>
+		<li style="text-align: left;">
+			<strong><span style="color: magenta;">Dan bratawalinya bisa mengatsi alergi, penyakit kulit, hipertensi, dsb.</span></strong>
+		</li>
+	</ul>
+</div>
+
 Selain dapat mengatasi kondisi nyeri tumit, juga mampu mengatasi nyeri tulang, memperkuat imun tubuh, memperkuat sendi tubuh, dan yang pasti bisa menyehatkan kondisi kesehatan tubuh, khususnya persendian dan tulang.
 
 Dan adapun beragam khasiat dari Samulinpro Sehat Sendi ini mampu mengatasi:
@@ -88,37 +119,6 @@ Dan adapun beragam khasiat dari Samulinpro Sehat Sendi ini mampu mengatasi:
 </div>
 
 Produk herbal Samulinpro Sehat Sendi ini diproduksi oleh **CV. SAMI MANDJOER**, yang berlokasi di ***Kab. Kulon Progo, DI Yogyakarta***.
-
-<div style="border-radius: 3px; border: 3px solid rgb(255, 204, 204); padding: 10px;">
-	<h3 style="text-align: left;">
-		<span style="color: lime;">Khasiat Samulinpro Sehat Sendi</span>
-	</h3>
-	<div style="text-align: left;">
-		<strong>Kok bisa?</strong> Karena produk Samulinpro Sehat Sendi ini terbuat dari 100% <strong>Akar Kuning</strong>, <strong>Bratawali</strong>, dan <strong>Daun Salam</strong> berkualitas.
-	</div>
-	<br>
-	<div style="text-align: left;">
-		<strong>Kualitas kandungan Samulinpro Sehat Sendi ini berdasarkan penelitian mampu mengatasi kondisi darah yang mengental</strong>.
-	</div>
-	<br>
-	<div style="text-align: left;">
-		Berikut detail kandungan dan khasiat dari setiap bahannya.
-	</div>
-	<ul>
-		<li style="text-align: left;">
-			<strong><span style="color: magenta;">Daun salam dengan Eugenol dan metil chavicol yang memiliki sifat antijamur dan antibakteri bisa memberantas berbagai pnyebab infeksi.</span></strong>
-		</li>
-		<li style="text-align: left;">
-			<strong><span style=" color: magenta;">Alkaloid berberin dalam akar kuning juga bisa mengatasi kondisi infeksi, karena memiliki zat aktif. Juga bisa menghambat sel tumor dan turunkan tekanan darah.</span></strong>
-		</li>
-		<li style="text-align: left;">
-			<strong><span style="color: magenta;">Ditambah terdapat antibakteri, memiliki efek ekspektoran, bisa turunkan panas, mengatsi hipotensi, mengatasi masalah lambung, sembuhkan penyakit kuning, penyakit cacing, serta gangguan pencernaan.</span></strong>
-		</li>
-		<li style="text-align: left;">
-			<strong><span style="color: magenta;">Dan bratawalinya bisa mengatsi alergi, penyakit kulit, hipertensi, dsb.</span></strong>
-		</li>
-	</ul>
-</div>
 
 Produk herbal Samulinpro Sehat Sendi ini sudah lolos uji lab di **BPOM RI** dengan no reg **TR173306941**. Dan juga lolos uji halal, di **Badan Sertifikasi Halal MUI**.
 
