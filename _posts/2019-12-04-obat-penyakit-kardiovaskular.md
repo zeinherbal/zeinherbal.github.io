@@ -37,7 +37,23 @@ Dengan beragam kandungan dalam Sarmucare ini kondisi penyakit kardiovaskular dal
 
 Sehingga beragam keluhan dan risiko penyakit kardiovaskular yang serius hilang.
 
-Kandungan ***<span style="color: red;">efek kardiovaskular</span>***, ***<span style="color: red;">antioksidan</span>***, dan ***<span style="color: red;">efek vaskular</span>*** Sarang Semut Sarmucare bisa membantu tubuh dalam mengencerkan darah, menjaga kondisi pembuluh darah, menurunkan kolesterol, dsb.
+<div style="border: 4px solid teal; border-radius: 4px; padding: 6px;">
+<h2>Khasiat Sarmucare untuk mengatasi penyakit kardiovaskular</h2>
+
+Kok bisa? Karena produk Sarmucare ini terbuat dari 100% <strong style="color: red">Ekstrak Sarang Semut</strong> berkualitas.
+<br>
+<br>
+<strong style="color: fuchsia;">Kualitas kandungan Sarmucare ini berdasarkan penelitian mampu mengatasi kondisi darah dalam tubuh yang mengalami gangguan, seperti pengentalan darah.</strong>
+<br>
+<br>
+Karena hasil penelitian menunjukan Sarang Semut ini memiliki <strong style="color: aqua;">anti-inflamasi</strong>, <strong style="color: aqua;">antimikroba</strong>, <strong style="color: aqua;">antineoplastik</strong>, <strong style="color: aqua;">sifat anxiolytic</strong>, <strong style="color: aqua;">efek kardiovaskular</strong>, <strong style="color: aqua;">efek vaskular</strong>, <strong style="color: aqua;">efek neuroprotektif</strong>, dsb.
+<br>
+<br>
+Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan kesehatan tubuh.
+<br>
+<br>
+Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
+</div>
 
 Ragam kandungan lain juga tentunya bisa membantu tubuh menjadi lebih sehat.
 
@@ -76,24 +92,6 @@ Hanya <strong>Rp195.000</strong>,- Saja
 </div>
 
 Produk herbal Sarmucare ini diproduksi oleh CV. SAMI MANDJOER, yang berlokasi di Kab. Kulon Progo, DI Yogyakarta.
-
-<div style="border: 4px solid teal; border-radius: 4px; padding: 6px;">
-<h2>Khasiat Sarmucare untuk mengatasi penyakit kardiovaskular</h2>
-
-Kok bisa? Karena produk Sarmucare ini terbuat dari 100% <strong style="color: red">Ekstrak Sarang Semut</strong> berkualitas.
-<br>
-<br>
-<strong style="color: fuchsia;">Kualitas kandungan Sarmucare ini berdasarkan penelitian mampu mengatasi kondisi darah dalam tubuh yang mengalami gangguan, seperti pengentalan darah.</strong>
-<br>
-<br>
-Karena hasil penelitian menunjukan Sarang Semut ini memiliki <strong style="color: aqua;">anti-inflamasi</strong>, <strong style="color: aqua;">antimikroba</strong>, <strong style="color: aqua;">antineoplastik</strong>, <strong style="color: aqua;">sifat anxiolytic</strong>, <strong style="color: aqua;">efek kardiovaskular</strong>, <strong style="color: aqua;">efek vaskular</strong>, <strong style="color: aqua;">efek neuroprotektif</strong>, dsb.
-<br>
-<br>
-Tentunya ada beragam kandungan lain dalam Sarang Semut ini yang bisa tingkatkan kesehatan tubuh.
-<br>
-<br>
-Juga memiliki anti-inflamasi yang bisa mengatasi peradangan di jaringan dalam tubuh akibat kanker.
-</div>
 
 Produk herbal Sarmucare ini sudah lolos uji lab di <strong>BPOM RI</strong> dengan no reg <strong>193325781</strong>. Dan juga lolos uji halal, di <strong>Badan Sertifikasi Halal MUI</strong>.
 
