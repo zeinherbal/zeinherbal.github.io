@@ -42,7 +42,7 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 ![testimoni qnc jelly gamat haid berlebih](https://1.bp.blogspot.com/-EglUglLPLNQ/XfRdSKg8GxI/AAAAAAAACV4/1OX8MzoXrAQXqf--Mc4VSnqOPoAf_f3cgCLcBGAsYHQ/s1600/haid-berlebih2.jpg)
 {: style="text-align: center;"}
 
-## Segera hentikan pendarahan haid berlebih dengan QnC Jelly Gamat
+## Khasiat QnC Jelly Gamat dalam mengobati pendarahan haid berlebih
 
 <div style="background-color: palegreen; padding: 8px 10px;">
 Kombinasi antara teripang emas dan madu murni menghasilkan komponen dengan aktivitas biologis dan farmakologis unik, seperti antihipertensi, anti-inflamasi, antimikroba, dan antitumor.
