@@ -23,11 +23,13 @@ Khusus hari ini:
 {: style="text-align: center;"}
 
 <strong style="color: red; text-align: center;">Order 1–2 botol, kami akan memberlakukan sistem pengiriman barang terlebih dahulu, setelah barang diterima baru anda melakukan transfer pembayaran</strong>
+{: style="text-align: center;"}
 
 Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
 
 
 <a href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC%20Jelly%20Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YDH%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
+{: style="text-align: center;"}
 
 ## Testimoni QnC Jelly Gamat untuk haid berlebih
 
@@ -44,26 +46,32 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 
 <div style="background-color: palegreen; padding: 8px 10px;">
 Kombinasi antara teripang emas dan madu murni menghasilkan komponen dengan aktivitas biologis dan farmakologis unik, seperti antihipertensi, anti-inflamasi, antimikroba, dan antitumor.
-
+<br/>
+<br/>
 Khasiat dari komponen-komponene tersebut mampu mengatsi peradangan atau infeksi yang mungkin saja menjadi penyebab dari haid berlebih.
-
+<br/>
+<br/>
 Ada juga vitamin A, vitamin B1 (tiamin), vitamin B2 (riboflavin), vitamin B3 (niasin), dan mineral, terutama kalsium, magnesium, zat besi dan seng.
-
+<br/>
+<br/>
 Semua kandungan di atas tersebut bisa secara efektif menghentikan pendarahan haid berlebih.
-
+<br/>
+<br/>
 Beragam kandungan tersebut sudah terbukti berdasarkan penelitian yang terdapat dalam jurnal penelitian di NCBI berjudul ![High-Value Components and Bioactives from Sea Cucumbers for Functional Foods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3210605/).
-
+<br/>
+<br/>
 Berikut detail khasiat dalam mengatasi haid berlebih:
-
-+ Menghentikan pendarahan hebat, baik itu akibat luka atau karena hadi.
-+ Memperlambat pendarahan menstruasi, kandungan dalam teripang emas ini bekerja dengan membantu sistem pembekuan darah.
-+ Mengurangi kram akibat haid berlebihan.
-+ Melancarkan sirkulasi darah dan pencernaan.
-+ Menjaga kestabilan emosi, sehingga bisa mengurangi stres.
-+ Meningkatkan sistem kekebalan tubuh, ini berfungsi untuk mencegah beragam penyakit, termasuk mikroorganisme merugikan yang bisa menyerang organ genital ketika mengalami haid berlebihan.
-+ Mempercepat regenerasi sel-sel tubuh, terutama organ genital wanita.
-+ Mengembalikan kebugaran tubuh, ini karena nutrisi lengkap dalam QnC Jelly Gamat. Dan juga dapat memenuhi nutrisi dan cairan tubuh.
-
+<br/>
+<ul>
+	<li style="font-weight: bold;">Menghentikan pendarahan hebat, baik itu akibat luka atau karena hadi.</li>
+	<li style="font-weight: bold;">Memperlambat pendarahan menstruasi, kandungan dalam teripang emas ini bekerja dengan membantu sistem pembekuan darah.</li>
+	<li style="font-weight: bold;">Mengurangi kram akibat haid berlebihan.</li>
+	<li style="font-weight: bold;">Melancarkan sirkulasi darah dan pencernaan.</li>
+	<li style="font-weight: bold;">Menjaga kestabilan emosi, sehingga bisa mengurangi stres.</li>
+	<li style="font-weight: bold;">Meningkatkan sistem kekebalan tubuh, ini berfungsi untuk mencegah beragam penyakit, termasuk mikroorganisme merugikan yang bisa menyerang organ genital ketika mengalami haid berlebihan.</li>
+	<li style="font-weight: bold;">Mempercepat regenerasi sel-sel tubuh, terutama organ genital wanita.</li>
+	<li style="font-weight: bold;">Mengembalikan kebugaran tubuh, ini karena nutrisi lengkap dalam QnC Jelly Gamat. Dan juga dapat memenuhi nutrisi dan cairan tubuh.</li>
+</ul>
 </div>
 
 ## Rincian produk QnC Jelly Gamat
@@ -87,11 +95,11 @@ Aturan konsumsi QnC Jelly Gamat:
 
 Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.321.005.009 dengan mencantumkan kode produk **YDH** seperti contoh dibawah ini :
 
-+ Kode Produk: <span style="color: red;">YDH</span>
-+ Jumlah Pemesanan: <span style="color: red;">2 Botol</span>
-+ Nama: <span style="color: red;">Aan Suryadi</span>
-+ Alamat: <span style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</span>
-+ No. Telp/Hp: <span style="color: red;">081214937xxx</span>
++ Kode Produk: <strong style="color: red;">YDH</strong>
++ Jumlah Pemesanan: <strong style="color: red;">2 Botol</strong>
++ Nama: <strong style="color: red;">Aan Suryadi</strong>
++ Alamat: <strong style="color: red;">Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat</strong>
++ No. Telp/Hp: <strong style="color: red;">081214937xxx</strong>
 
 **Kirim Ke: 082.321.005.009**
 {: style="text-align: center;"}
