@@ -57,7 +57,7 @@ Ada juga vitamin A, vitamin B1 (tiamin), vitamin B2 (riboflavin), vitamin B3 (ni
 Semua kandungan di atas tersebut bisa secara efektif menghentikan pendarahan haid berlebih.
 <br/>
 <br/>
-Beragam kandungan tersebut sudah terbukti berdasarkan penelitian yang terdapat dalam jurnal penelitian di NCBI berjudul ![High-Value Components and Bioactives from Sea Cucumbers for Functional Foods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3210605/).
+Beragam kandungan tersebut sudah terbukti berdasarkan penelitian yang terdapat dalam jurnal penelitian di NCBI berjudul [High-Value Components and Bioactives from Sea Cucumbers for Functional Foods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3210605/).
 <br/>
 <br/>
 Berikut detail khasiat dalam mengatasi haid berlebih:
