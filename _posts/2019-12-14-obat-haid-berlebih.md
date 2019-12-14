@@ -27,9 +27,10 @@ Khusus hari ini:
 
 Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
 
-
+<br/>
 <a href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC%20Jelly%20Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YDH%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
 {: style="text-align: center;"}
+<br/>
 
 ## Testimoni QnC Jelly Gamat untuk haid berlebih
 
@@ -111,3 +112,7 @@ Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 
 <a style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;" href="sms:+6282321005009?body=Saya%20pesan%20obat%20herbal%20QnC Jelly Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YDH%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via SMS</a>
 {: style="text-align: center;"}
+
+<div style="position: fixed; z-index:-1;">
+    <a href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC Jelly Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YDH%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #61ce70; border: 2px solid rgb(97, 206, 112); color: white; border: 2px solid rgb(97, 206, 112); color: white;">PESAN SEKARANG via WA</a>
+</div>
