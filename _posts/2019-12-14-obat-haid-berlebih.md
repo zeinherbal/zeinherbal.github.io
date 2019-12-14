@@ -115,6 +115,6 @@ Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 
 <div style="display: block;position: fixed;width: 100%;bottom: 0px;left: 0px;right: 0px;z-index: 2;padding: 10px 0px;overflow: hidden;border-radius: 0px;margin: 0px !important; background-color: #e8ffe8">
     <div style="width: 100%; height: 40px; display: flex; flex-direction: row; flex-wrap: wrap; padding: 0px 4px;">
-        <a style="display: flex; flex-direction: column; flex: 1 1 50%; padding: 0px 10px; align-items: center; justify-content: center; background-color: #61ce70;" href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC Jelly Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YDH%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN QNC via WA</a>
+        <a style="color: white; display: flex; flex-direction: column; flex: 1 1 50%; padding: 0px 10px; align-items: center; justify-content: center; background-color: #61ce70;" href="https://api.whatsapp.com/send?phone=6282321005009&text=Saya%20pesan%20obat%20herbal%20QnC Jelly Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YDH%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN QNC via WA</a>
     </div>
 </div>
