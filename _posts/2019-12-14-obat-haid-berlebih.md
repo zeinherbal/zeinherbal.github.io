@@ -49,7 +49,7 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 Kombinasi antara teripang emas dan madu murni menghasilkan komponen dengan aktivitas biologis dan farmakologis unik, seperti antihipertensi, anti-inflamasi, antimikroba, dan antitumor.
 <br/>
 <br/>
-Khasiat dari komponen-komponene tersebut mampu mengatsi peradangan atau infeksi yang mungkin saja menjadi penyebab dari haid berlebih.
+Khasiat dari komponen-komponen tersebut mampu mengatasi peradangan atau infeksi yang mungkin saja menjadi penyebab dari haid berlebih.
 <br/>
 <br/>
 Ada juga vitamin A, vitamin B1 (tiamin), vitamin B2 (riboflavin), vitamin B3 (niasin), dan mineral, terutama kalsium, magnesium, zat besi dan seng.
