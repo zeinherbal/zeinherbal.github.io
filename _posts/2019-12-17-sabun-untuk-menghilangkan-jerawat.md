@@ -3,7 +3,7 @@ layout: post
 title: Sabun Wajah Natural Oud Untuk Menghilangkan Jerawat
 ---
 
-Terdapat beragam penyebab yang bisa timbulkan jerawat. Mulai dari penyumbatan pori hingga hormon tubuh. Untuk mengatasi kondisi jerawat tersebut butuh produk dengan kandungan yang memang mampu mengatasi jerawat.
+Terdapat beragam penyebab yang bisa timbulkan jerawat, mulai dari penyumbatan pori hingga hormon tubuh. Untuk mengatasi kondisi jerawat tersebut butuh produk dengan kandungan yang memang mampu mengatasi jerawat.
 
 Tentunya bahan alami/herbal dan nutrisi yang dikandungnya menjadi pilih utama sebagai obati untuk menghilangkan jerawat.
 {: style="color: darkgoldenrod;"}
@@ -16,6 +16,8 @@ Harga perbatangnya Rp100.000. Berat perbatangnya 50gram
 Beberapa bahan alaminya antara lain **minyak kepala**, **madu**, **minyak zaitun**, **ekstrak lidah buaya**, dan **susu kambing**.
 
 Kombinasi dari beberapa bahan alami tersebut memiliki beragam kandungan yang bisa mengatasi kulit wajah berjerawat. Seperti, <strong style="color: dodgerblue;">antibakteri</strong>, <strong style="color: dodgerblue;">antiinflamasi/radang</strong>, <strong style="color: dodgerblue;">antioksidan</strong>, <strong style="color: dodgerblue;">vitamin</strong>, <strong style="color: dodgerblue;">kolagen</strong>, dsb.
+
+Tentu saja produk ini cocok untuk kondisi kulit apapun, baik itu kondisi kulit perempuan atau laki-laki.
 
 <div style="background-color: palegreen; padding: 8px 10px; border-left: 2px solid lawngreen;">
 	Sabun Wajah Natural Oud ini sudah lolos uji di BPOM RI dengan no registrasi <strong>NA18181204452</strong>.
