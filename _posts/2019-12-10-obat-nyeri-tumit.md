@@ -32,6 +32,13 @@ Bahan-bahan Samulinpro Sehat Sendi ini terdiri dari *Akar Kuning*, *Bratawali*, 
 **Bisa pesan melalui COD/Bayar Di Tempat**
 {: style="text-align: center; color: deepskyblue;"}
 
+Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
+
+<br/>
+<a id="wa-gyt-up" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20sabun%20wajah%20Natural%20Oud%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20ULA%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
+{: style="text-align: center;"}
+<br/>
+
 ## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
 
 ![Samulinpro](https://1.bp.blogspot.com/-58IFfXgIN4I/Xcke2RNBwnI/AAAAAAAAATA/B2XEieyxYDU-jJHZKoobpIU18evtMtYWgCNcBGAsYHQ/s1600/samulin.png)
@@ -195,7 +202,7 @@ Anda cukup mengirimkan SMS / WA Ke No. **082.215.649.991** dengan mencantumkan k
 
 Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 
-<a id="wa-gyt" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via WA</a>
+<a id="wa-gyt-down" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via WA</a>
 {: style="text-align: center;"}
 
 <a id="sms-gyt" style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;" href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via SMS</a>
