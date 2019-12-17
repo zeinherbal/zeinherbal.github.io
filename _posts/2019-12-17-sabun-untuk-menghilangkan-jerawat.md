@@ -6,11 +6,12 @@ title: Sabun Wajah Natural Oud Untuk Menghilangkan Jerawat
 Terdapat beragam penyebab yang bisa timbulkan jerawat. Mulai dari penyumbatan pori hingga hormon tubuh. Untuk mengatasi kondisi jerawat tersebut butuh produk dengan kandungan yang memang mampu mengatasi jerawat.
 
 Tentunya bahan alami/herbal dan nutrisi yang dikandungnya menjadi pilih utama sebagai obati untuk menghilangkan jerawat.
+{: style="color: darkgoldenrod;"}
 
 Nah, di website ini kami merekomendasikan sebuah produk sabun wajah **Natural Oud** berbentuk sabun batang, yang bahan-bahannya 80% alami.
 
 Harga perbatangnya Rp100.000. Berat perbatangnya 50gram
-{: style="text-align: center;"}
+{: style="text-align: center; color: deepskyblue;"}
 
 Beberapa bahan alaminya antara lain **minyak kepala**, **madu**, **minyak zaitun**, **ekstrak lidah buaya**, dan **susu kambing**.
 
@@ -22,9 +23,8 @@ Kombinasi dari beberapa bahan alami tersebut memiliki beragam kandungan yang bis
 
 Khusus hari ini:
 
-<strong style="color: red;">‒ Pesan 1 Botol | Obat Dikirim Dahulu | Pembayarannya Ditransfer Setelah Obatnya Diterima</strong>
+<strong style="color: red; text-align: center;">‒ Pesan 1 Botol | Obat Dikirim Dahulu | Pembayarannya Ditransfer Setelah Obatnya Diterima</strong>
 
-<br/>
 <br/>
 <a href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20sabun%20wajah%20Natural%20Oud%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20ULA%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
 {: style="text-align: center;"}
@@ -112,7 +112,7 @@ Produk dari perusahaan tersebut ini sudah lulus uji kandungan di **BPOM RI**, de
 + Lalu bilas dan keringkan
 
 
-## Bagaimana Cara Pemesanannya?
+## Bagaimana cara pemesanannya?
 
 Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.321.005.009 dengan mencantumkan kode produk **ULA** seperti contoh dibawah ini :
 
