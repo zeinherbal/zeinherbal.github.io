@@ -25,6 +25,8 @@ Khusus hari ini:
 
 <strong style="color: red; text-align: center;">‒ Pesan 1 Botol | Obat Dikirim Dahulu | Pembayarannya Ditransfer Setelah Obatnya Diterima</strong>
 
+Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
+
 <br/>
 <a id="wa-ula-up" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20sabun%20wajah%20Natural%20Oud%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20ULA%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
 {: style="text-align: center;"}
