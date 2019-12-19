@@ -5,13 +5,16 @@ title: Obat Nyeri Tumit Herbal - Samulinpro Sehat Sendi
 
 Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, **tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah**. Bila dibiarkan kondisi tersebut bisa memicu masalah lain di kaki.
 
-Selain rasa sakit, nyeri tumir juga bisa disertai:
+Selain rasa sakit, nyeri tumit juga bisa disertai:
 
 + Pembengkakan tumit
 + Tumit terasa kaku
 + Kaki tampak memerah
 + Bunyi gemertak saat berjalan
 + Sulit berjalan
+
+![bunga saffron banner](https://1.bp.blogspot.com/-07WQYNiyblE/XfrZUoDMg8I/AAAAAAAAAaY/lEue50sIevQsLBuLqFCz9drHrk753NH3wCNcBGAsYHQ/s1600/banner.png)
+{: style="text-align: center;"}
 
 Nah, untuk menghilangkan rasa sakit tersebut Anda bisa konsumsi produk obat herbal **Samulinpro Sehat Sendi**, daripada mengonsumsi obat-obatan non-herbal. Obat herbal ini terbuat dari **100% bahan alami**, terbukti khasiatnya, dan sudah **lulus uji di BPOM RI**.
 
