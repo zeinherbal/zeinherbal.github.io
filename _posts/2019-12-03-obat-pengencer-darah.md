@@ -23,12 +23,15 @@ Solusinya yaitu, obat herbal dari sarang semut, namanya **<span style="color: re
 —Pesan 2 Botol - Gratis Ongkos Kirim—
 {: style="color: red; text-align: center; font-weight: bold;"}
 
+**Bisa pesan melalui COD/Bayar Di Tempat**
+{: style="text-align: center; color: deepskyblue;"}
+
 Nah, di situs ini Anda bisa langsung memesan produk Sarmucare ini. 
 
 Dengan harga **<span style="color: lightskyblue;">Rp195.000/botolnya</span>**. Klik saja tombol di bawah ini.
 
-
-<a href="https://api.whatsapp.com/send?phone=6282215649991&amp;text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;">**PESAN SEKARANG via WA**</a>
+<br/>
+<a id="wa-ybg-up" href="https://api.whatsapp.com/send?phone=6282215649991&amp;text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;">**PESAN SEKARANG via WA**</a>
 <br/>
 <br/>
 {: style="text-align: center;"}
@@ -185,9 +188,13 @@ Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No
 Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 
 <div style="text-align: center;">
-	<strong><a href="https://api.whatsapp.com/send?phone=6282215649991&amp;text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" id="wa-ybg" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px; text-decoration: none;">PESAN SEKARANG via WA</a></strong>
+	<strong><a id="wa-ybg-down" href="https://api.whatsapp.com/send?phone=6282215649991&amp;text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" id="wa-ybg" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px; text-decoration: none;">PESAN SEKARANG via WA</a></strong>
 	<br>
 	<br>
-	<strong><a href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" id="sms-ybg" style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;">PESAN SEKARANG via SMS</a></strong>
+	<strong><a id="sms-yba" href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YBG%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" id="sms-ybg" style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;">PESAN SEKARANG via SMS</a></strong>
 </div>
-
+<div style="display: block;position: fixed;width: 100%;bottom: 0px;left: 0px;right: 0px;z-index: 2;padding: 10px 0px;overflow: hidden;border-radius: 0px;margin: 0px !important; background-color: #e8ffe8">
+    <div style="width: 100%; height: 40px; display: flex; flex-direction: row; flex-wrap: wrap; padding: 0px 4px;">
+        <a id="wa-ybg-fly" style="color: white; display: flex; flex-direction: column; flex: 1 1 50%; padding: 0px 10px; align-items: center; justify-content: center; background-color: #61ce70;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Sarang%20Semut%20Sarmucare%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SAMULINPRO via WA</a>
+    </div>
+</div>
