@@ -13,7 +13,7 @@ Selain rasa sakit, nyeri tumit juga bisa disertai:
 + Bunyi gemertak saat berjalan
 + Sulit berjalan
 
-<a href="https://bungasaffronkering.diobatherbal.com/"><img src="https://1.bp.blogspot.com/-07WQYNiyblE/XfrZUoDMg8I/AAAAAAAAAaY/lEue50sIevQsLBuLqFCz9drHrk753NH3wCNcBGAsYHQ/s1600/banner.png" /></a>
+<a id="saffron-ad" href="https://bungasaffronkering.diobatherbal.com/"><img src="https://1.bp.blogspot.com/-07WQYNiyblE/XfrZUoDMg8I/AAAAAAAAAaY/lEue50sIevQsLBuLqFCz9drHrk753NH3wCNcBGAsYHQ/s1600/banner.png" /></a>
 {: style="text-align: center;"}
 
 Nah, untuk menghilangkan rasa sakit tersebut Anda bisa konsumsi produk obat herbal **Samulinpro Sehat Sendi**, daripada mengonsumsi obat-obatan non-herbal. Obat herbal ini terbuat dari **100% bahan alami**, terbukti khasiatnya, dan sudah **lulus uji di BPOM RI**.
