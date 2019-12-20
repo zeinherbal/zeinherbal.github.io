@@ -65,7 +65,11 @@ Produk herbal QnC Jelly Gamat ini sudah lolos uji lab di **BPOM RI** dengan no r
 
 Proses produksi QnC Jelly Gamat ini menggunakan alat dengan teknologi yang bisa mengolah bahan alami menjadi ekstrak konsentrasi tinggi. Sehingga ekstrak ini bisa dengan mudah diserap tubuh.
 
-Aturan konsumsi QnC Jelly Gamat:
+### Aturan penggunaan
+
+Oleskan cairan QnC Jelly Gamat ke area pusar.
+
+**Konsumsi juga QnC Jelly Gamat, berikut aturan konsumsinya:**
 
 + Bayi (minimal usia 8 bulan): 1/2 sendok teh 2 kali sehari.
 + Anak-anak: 1 sendok makan 2 kali sehari.
