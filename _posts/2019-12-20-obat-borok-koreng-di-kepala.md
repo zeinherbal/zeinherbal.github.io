@@ -17,8 +17,8 @@ Beberapa kandungannya seperti anti-inflamasi, antibakteri, gamapeptide, antioksi
 
 Khusus hari ini
 
-Pesan 1-2 Botol, Anda Bisa Bayar Setelah Barang Sampai
-{: style="text-align: center'"}
+**Pesan 1-2 Botol, Anda Bisa Bayar Setelah Barang Sampai**
+{: style="text-align: center; color: red;"}
 
 Anda bisa langsung pesan di sini sekarang. Klik saja tombol di bawah ini untuk order via WA.
 
