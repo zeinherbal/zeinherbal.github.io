@@ -15,6 +15,16 @@ Khusus untuk hari ini:
 
 — <span style="color: #ff2bc6;">Pesan 2 Botol - Gratis Ongkos Kirim</span>
 
+**Bisa pesan melalui COD/Bayar Di Tempat**
+{: style="text-align: center; color: deepskyblue;"}
+
+Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
+
+<br/>
+<a id="wa-ycw-up" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YCW%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
+{: style="text-align: center;"}
+<br/>
+
 Pengobatan dengan serius tentunya sangat diperlukan. Karena kondisi sakit buah zakar bisa mengakibatkan:
 
 + Kemandulan
@@ -190,9 +200,14 @@ Anda cukup mengirimkan SMS / WA Ke No. 082.215.649.991 dengan mencantumkan kode 
 Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 {: style="text-align: center;"}
 
-<a id="wa-ycw" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YCW%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via WA</a>
+<a id="wa-ycw-down" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YCW%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via WA</a>
 {: style="text-align: center;"}
 
 <a id="sms-ycw" style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;" href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YCW%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via SMS</a>
 {: style="text-align: center;"}
 
+<div style="display: block;position: fixed;width: 100%;bottom: 0px;left: 0px;right: 0px;z-index: 2;padding: 10px 0px;overflow: hidden;border-radius: 0px;margin: 0px !important; background-color: #e8ffe8">
+    <div style="width: 100%; height: 40px; display: flex; flex-direction: row; flex-wrap: wrap; padding: 0px 4px;">
+        <a id="wa-ycw-fly" style="color: white; display: flex; flex-direction: column; flex: 1 1 50%; padding: 0px 10px; align-items: center; justify-content: center; background-color: #61ce70;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20YCW%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SAMULINPRO via WA</a>
+    </div>
+</div>
