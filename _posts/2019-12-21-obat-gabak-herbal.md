@@ -29,6 +29,7 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 <br/>
 <a id="wa-enb-up" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px; text-decoration: none;" href="https://api.whatsapp.com/send?phone=6282321005009&amp;text=Saya%20pesan%20obat%20herbal%20QnC%20Jelly%20Gamat%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20ENB%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A"><strong>PESAN SEKARANG via WA</strong></a>
 <br/>
+{: style="text-align: center;"}
 
 ## Testimoni QnC Jelly Gamat dalam menyembuhkan gabak
 
