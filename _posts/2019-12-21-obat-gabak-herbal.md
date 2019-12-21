@@ -79,9 +79,9 @@ Konsumsi juga QnC Jelly Gamat, berikut aturan konsumsinya:
 
 ## Bagaimana cara pemesanannya?
 
-Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.321.005.009 dengan mencantumkan kode produk <strong>USK</strong> seperti contoh dibawah ini :
+Untuk cara pemesanannya sangat mudah sekali. Anda cukup mengirimkan SMS/WA Ke No. 082.321.005.009 dengan mencantumkan kode produk <strong>ENB</strong> seperti contoh dibawah ini :
 
-+ Kode Produk: <strong>USK</strong>
++ Kode Produk: <strong>ENB</strong>
 + Jumlah Pemesanan: <strong>2 Botol</strong>
 + Nama: <strong>Aan Suryadi</strong>
 + Alamat: <strong>Kp. Indah Cemara Rt/03 Rw/08 Kel. Setiakasih, Kec. + + Cibeureum, Kota Tasikmalaya, Jawa Barat</strong>
