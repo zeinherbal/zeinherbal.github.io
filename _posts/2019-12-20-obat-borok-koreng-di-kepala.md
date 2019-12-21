@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obat Borok/Koreng di Kepala
+title: Obat Borok/Koreng di Kepala Herbal
 ---
 
 Memang sangat mengkhawatirkan memiliki borok di kepala, apalagi kondisinya menahun atau tidak kunjung sembuh.
