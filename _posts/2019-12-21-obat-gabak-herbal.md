@@ -3,12 +3,12 @@ layout: post
 title: Obat Gabak atau Gabagen/Tampek/Kerumut Herbal Asli QnC Jelly Gamat
 ---
 
-Gabak atau herpes zoster atau cacar ular (cacar api) <span style="background-color: #ffdbd7; padding: 4px 0;">bila tidak diobati bisa menyebabkan komplikasi serius, seperti kebutaan, otot melemah, dan infeksi bakteri</span>.
+Gabak atau campak ini <span style="background-color: #ffdbd7; padding: 4px 0;">bila tidak diobati bisa menyebabkan komplikasi serius, seperti dehidrasi akibat diare dan muntah, infeksi mata, infeksi telinga, dan paru-paru basah.</span>.
 
 Rekomendasi kami untuk mengatasi gabak ini adalah dengan produk obat herbal dari teripang emas dan madu. 
 
 <div style="background-color: antiquewhite; padding: 7px; border-left: 5px coral solid;">
-Khasiat kombinasi dua bahan alami tersebut ampuh memberantas infeksi dan peradangan akibat virus <em>Varicella Zoster</em> penyebab <strong>gabak</strong>.
+Khasiat kombinasi dua bahan alami tersebut ampuh memberantas infeksi dan peradangan akibat virus penyebab <strong>gabak</strong>.
 </div>
 
 Di website ini terdapat produk herbal merek <span style="color: orange;">QnC Jelly Gamat</span>, terbuat dari teripang emas dan madu, yang sudah lulus uji nutrisi di **BPOM RI**, dengan no registrasi **TR173301471**.
