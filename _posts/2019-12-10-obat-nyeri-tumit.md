@@ -3,7 +3,7 @@ layout: post
 title: Obat Nyeri Tumit Herbal - Samulinpro Sehat Sendi
 ---
 
-Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, **tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah**. Bila dibiarkan kondisi tersebut bisa memicu masalah lain di kaki.
+Walau kondisi nyeri tumit ini bisa sembuh dengan beristirahat, **tapi kebanyak orang mengabaikan rasa nyeri tersebut, sehingga rasa nyerinya semakin parah**. <strong style="color: red;">Bila dibiarkan kondisi tersebut bisa memicu masalah lain di kaki</strong>.
 
 Selain rasa sakit, nyeri tumit juga bisa disertai:
 
