@@ -3,7 +3,7 @@ layout: post
 title: Obat Penyakit Dompo Herbal 100% Alami Dan Ampuh
 ---
 
-Dompo atau herpes zoster ini <span style="background-color: #ffdbd7; padding: 4px 0;">bila tidak diobati bisa menyebabkan komplikasi serius, seperti dehidrasi akibat diare dan muntah, infeksi mata, infeksi telinga, dan paru-paru basah.</span>.
+Gabak atau herpes zoster atau cacar ular (cacar api) <span style="background-color: #ffdbd7; padding: 4px 0;">bila tidak diobati bisa menyebabkan komplikasi serius, seperti kebutaan, otot melemah, dan infeksi bakteri</span>.
 
 Rekomendasi kami untuk mengatasi dompo ini adalah dengan produk obat herbal dari teripang emas dan madu. 
 
