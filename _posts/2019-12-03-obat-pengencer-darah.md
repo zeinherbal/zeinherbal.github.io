@@ -4,9 +4,9 @@ title: Obat Pengencer Darah Herbal 100% Alami - Sarang Semut Sarmucare
 description: Darah kental tentulah berbahaya bagi tubuh, untuk itu segera obati dengan obat herbal Sarmucare, dari 100% sarang semut.
 ---
 
-Mengeluhkan gejala akibat darah kental? Seperti *lengan dan kaki terasa kesemutan, bengkak, dan nyeri. Atau, dada terasa berat hingga terasa ke lengan dan leher, sesak napas,* dsb.
+***lengan dan kaki terasa kesemutan, bengkak, dan nyeri? Atau, dada terasa berat hingga terasa ke lengan dan leher?*** Itu adalah keluhan dari darah kental.
 
-Bila Anda merasakan keluhan tersebut segera obati, karena **<span style="color: crimson">bila dibiarkan kondisi tersebut bisa berubah parah, bahkan bisa sebabkan penyakit kronis, seperti penyakit jantung, stroke, dan gangguan ginjal</span>**.
+Harus diketahui, bahwa keluhan tersebut mesti segera diobati, karena **<span style="color: crimson">bila dibiarkan kondisi tersebut bisa berubah parah, bahkan bisa sebabkan penyakit kronis, seperti penyakit jantung, stroke, dan gangguan ginjal</span>**.
 
 Anda mencari solusi untuk mengobati darah kental tanpa obat kimia? ***<span style="color: green">Di situs ini kami memiliki solusi untuk mengobati darah kenal Anda dengan bahan alami</span>***.
 
