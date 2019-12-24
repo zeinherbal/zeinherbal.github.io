@@ -4,6 +4,7 @@
 //
 // IMPORTS
 //
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 
 @import "reset";
 @import "variables";
@@ -19,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $firaSans;
   color: $darkGray;
 }
 
