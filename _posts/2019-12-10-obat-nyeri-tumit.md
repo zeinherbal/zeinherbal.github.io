@@ -44,7 +44,7 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 
 ## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
 
-![Samulinpro](https://1.bp.blogspot.com/-58IFfXgIN4I/Xcke2RNBwnI/AAAAAAAAATA/B2XEieyxYDU-jJHZKoobpIU18evtMtYWgCNcBGAsYHQ/s1600/samulin.png)
+![Samulinpro](https://1.bp.blogspot.com/-6tHXNgHRMWQ/XgGKUFuN-lI/AAAAAAAACXY/QJNWINmD4yY40hueloGtyTs_kzD2NzMJwCLcBGAsYHQ/s1600/samulin%2B%25281%2529.png)
 {: style="text-align: center;"}
 
 ### Khasiat Samulinpro Sehat Sendi
