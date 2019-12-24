@@ -44,7 +44,7 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 
 ## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
 
-![Samulinpro](https://1.bp.blogspot.com/-amE25zc_Xiw/XgGSXQgyE_I/AAAAAAAAAa0/McSD8E35KMw-2RIuTh4VeHz_85URU49qACNcBGAsYHQ/s1600/samulin.webp)
+![Samulinpro](https://1.bp.blogspot.com/-FfpujqdvLbQ/XgGXsOO28uI/AAAAAAAAAbI/yVRBvauyEXghEFmhrjpX0_pWDGZeKwyywCNcBGAsYHQ/s1600/samulin.webp)
 {: style="text-align: center;"}
 
 ### Khasiat Samulinpro Sehat Sendi
@@ -133,16 +133,16 @@ Teknologi nano ini membuat kandungan dalam produk Samulinpro Sehat Sendi bisa de
 
 ## Testimoni Samulinpro Sehat Sendi Untuk Nyeri Tumit
 
-![testimoni satu](https://1.bp.blogspot.com/-yep_YtvA0VM/XckgUqDsbyI/AAAAAAAAATU/Z7R-KLMjlJgn5tFNuk9eekAoXarPLkRmgCNcBGAsYHQ/s400/testi-samulin2.jpg)
+![testimoni satu](https://1.bp.blogspot.com/-9e8Fcuwdvrg/XgGXrgMBXAI/AAAAAAAAAbA/rnM0AgHkpTwX38WeA9DCAoLBpwNk-btFwCNcBGAsYHQ/s1600/testi-samulin.webp)
 {: style="text-align: center;"}
 
-![testimoni dua](https://1.bp.blogspot.com/-pPHnYrTEBZY/XckgUghNQwI/AAAAAAAAATM/4opHw1d3wR44vjrtWACMFMKL45gcfXfRgCNcBGAsYHQ/s400/testi-samulin3.jpg)
+![testimoni dua](https://1.bp.blogspot.com/-a_YhTGEkoxs/XgGXr0nHBiI/AAAAAAAAAbE/DuAq17HBAlUxqzYgFoJ2Tqr9fxuRz2O_QCNcBGAsYHQ/s1600/testi-samulin2.webp)
 {: style="text-align: center;"}
 
-![testimoni tiga](https://1.bp.blogspot.com/-GQzUTbkx5Iw/XckgVzkLqFI/AAAAAAAAATY/8dX9nLMIOzEKtK5KSm28_DFUPXfxx6DRACNcBGAsYHQ/s400/testi-samulin4.jpg)
+![testimoni tiga](https://1.bp.blogspot.com/-sSVXnAoV5kI/XgGXseIlxEI/AAAAAAAAAbM/0f8-vvjQJ1Ybq018Bnpw753oiCzOSsCEwCNcBGAsYHQ/s1600/testi-samulin3.webp)
 {: style="text-align: center;"}
 
-![testimoni empat](https://1.bp.blogspot.com/-H2bYSnyVPN8/XckgUpSyTOI/AAAAAAAAATQ/H5b6FB6ieh8qjgryA817P0lcegwuWhbSwCNcBGAsYHQ/s400/testi-samulin.jpg)
+![testimoni empat](https://1.bp.blogspot.com/-oI2Md74Khj8/XgGXsvM3HTI/AAAAAAAAAbQ/0JirM5Pg5tYXfN1mklDaWuUzhJc5VSYMwCNcBGAsYHQ/s1600/testi-samulin4.webp)
 {: style="text-align: center;"}
 
 ## Komposisi Samulinpro Sehat Sendi
