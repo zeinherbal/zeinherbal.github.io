@@ -39,19 +39,19 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 
 ### Testimoni QnC Jelly Gamat dalam mengobati bau mulut karena asam lambung
 
-![satu qnc](https://1.bp.blogspot.com/-f4JNG0VVolU/XgRVneCzkOI/AAAAAAAACX4/YyAurJTZPt0UpVMHTmT0RFIBd_sK5-BYgCLcBGAsYHQ/s320/satu.webp)
+![satu qnc](https://1.bp.blogspot.com/-f4JNG0VVolU/XgRVneCzkOI/AAAAAAAACX4/YyAurJTZPt0UpVMHTmT0RFIBd_sK5-BYgCLcBGAsYHQ/s1600/satu.webp)
 {: style="text-align: center;"}
 
-![dua qnc](https://1.bp.blogspot.com/-qPOl2JgmyHY/XgRVlZptUmI/AAAAAAAACXo/Z-urewYu23ohBPNBIrZQfuUM5VXI9ryKgCLcBGAsYHQ/s320/dua.webp)
+![dua qnc](https://1.bp.blogspot.com/-qPOl2JgmyHY/XgRVlZptUmI/AAAAAAAACXo/Z-urewYu23ohBPNBIrZQfuUM5VXI9ryKgCLcBGAsYHQ/s1600/dua.webp)
 {: style="text-align: center;"}
 
-![tiga qnc](https://1.bp.blogspot.com/-u4g5ODAFvHg/XgRVnI8eURI/AAAAAAAACX0/uDgfSkhgceUzLJl1K9UrGiJR9OOyptVkgCLcBGAsYHQ/s320/tiga.webp)
+![tiga qnc](https://1.bp.blogspot.com/-u4g5ODAFvHg/XgRVnI8eURI/AAAAAAAACX0/uDgfSkhgceUzLJl1K9UrGiJR9OOyptVkgCLcBGAsYHQ/s1600/tiga.webp)
 {: style="text-align: center;"}
 
-![empat qnc](https://1.bp.blogspot.com/-MBTRztA896k/XgRVldQs-RI/AAAAAAAACXw/wpWx7ykNsCwVECUJ3DUcKp-k9iKtvMlxQCLcBGAsYHQ/s320/empat.webp)
+![empat qnc](https://1.bp.blogspot.com/-MBTRztA896k/XgRVldQs-RI/AAAAAAAACXw/wpWx7ykNsCwVECUJ3DUcKp-k9iKtvMlxQCLcBGAsYHQ/s1600/empat.webp)
 {: style="text-align: center;"}
 
-![lima qnc](https://1.bp.blogspot.com/-sR4EnGiN7DI/XgRVlaagZfI/AAAAAAAACXs/zAlzwi2q3EwNZ2iyL9FulKpt-TmNbbcRACLcBGAsYHQ/s320/lima.webp)
+![lima qnc](https://1.bp.blogspot.com/-sR4EnGiN7DI/XgRVlaagZfI/AAAAAAAACXs/zAlzwi2q3EwNZ2iyL9FulKpt-TmNbbcRACLcBGAsYHQ/s1600/lima.webp)
 {: style="text-align: center;"}
 
 ## QnC Jelly Gamat ampuh menyembuhkan bintik putih di bibir
