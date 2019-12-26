@@ -5,13 +5,13 @@ title: Obat Bau Mulut Karena Asam Lambung
 
 Penyakit asam lambung bisa sebabkan bau mulut, dengan baunya yang cenderung berbau asam.
 
-<span style="background-color: #c4e8ff; padding: 4px 0;">Pengobatan penyakit asam lambung yang tidak tuntas bisa timbulkan komplikasi, seperti radang di kerongkongan. Bahkan, bisa sebabkan luka.</span>
+Pengobatan penyakit asam lambung yang tidak tuntas bisa timbulkan <span style="background-color: #ffc9c4; padding: 4px 0;">komplikasi, seperti radang di kerongkongan. Bahkan, bisa sebabkan luka.</span>
 
 Untuk menyembuhkan penyakit asam lambung secara total kami sangat merekomendasikan QnC Jelly Gamat.
 
 Obat QnC Jelly Gamat ini terbuat dari teripang emas dan madu murni.
 
-Khasiat dari kandungannya mampu secara efektif dan tanpa efek samping mengatasi kondisi gangguan lambung yang sebabkan penyakit, dengan menghentikan pengeluaran asam di lambung.
+<span style="background-color: #c4e8ff; padding: 4px 0;">Khasiat dari kandungannya mampu secara efektif dan tanpa efek samping mengatasi kondisi gangguan lambung yang sebabkan penyakit, dengan menghentikan pengeluaran asam di lambung.</span>
 
 Dan, tentunya mengatasi bau mulut dan peradangan yang terjadi di organ sekitar lambung, seperti kerongkongan.
 
