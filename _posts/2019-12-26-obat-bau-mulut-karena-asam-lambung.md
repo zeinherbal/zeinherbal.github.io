@@ -5,7 +5,7 @@ title: Obat Bau Mulut Karena Asam Lambung
 
 Penyakit asam lambung bisa sebabkan bau mulut, dengan baunya yang cenderung berbau asam.
 
-Pengobatan penyakit asam lambung yang tidak tuntas bisa timbulkan komplikasi, seperti radang di kerongkongan. Bahkan, bisa sebabkan luka.
+<span style="background-color: #c4e8ff; padding: 4px 0;">Pengobatan penyakit asam lambung yang tidak tuntas bisa timbulkan komplikasi, seperti radang di kerongkongan. Bahkan, bisa sebabkan luka.</span>
 
 Untuk menyembuhkan penyakit asam lambung secara total kami sangat merekomendasikan QnC Jelly Gamat.
 
