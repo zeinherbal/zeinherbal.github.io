@@ -9,7 +9,7 @@ QnC Jelly Gamat adalah produk obat herbal dari teripang emas dan madu murni.
 
 Khasiat dari kombinasi dua bahan alami tersebut menghasilkan kolagen kuat dan anti-inflamasi, yang bisa mengatasi peradangan dan mempercepat regenerasi sel kulit di area jahitan, serita mengeringkan luka.
 
-Luka jahitan butuh perawatan khusus, karena memang kondisi lukanya lebar dan dalam. <span style="background-color: lightpink; padding: 2px 0;"Bila luka jahitan ini salah perawatan kondisinya bisa berubah parah</span>.
+Luka jahitan butuh perawatan khusus, karena memang kondisi lukanya lebar dan dalam. <span style="background-color: lightpink; padding: 2px 0;">Bila luka jahitan ini salah perawatan kondisinya bisa berubah parah</span>.
 
 Misalnya, bisa terjadi infeksi atau masalah kulit serius lainnya.
 
