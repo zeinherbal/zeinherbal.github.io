@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obat Pengering Luka Jahitan
+title: Obat Pengering Luka Jahitan Herbal QnC Jelly Gamat
 ---
 
 **Anda yang memiliki luka jahitan dan ingin segera kering tanpa obat kimia? Bisa pilih QnC Jelly Gamat.**
