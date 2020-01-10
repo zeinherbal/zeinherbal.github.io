@@ -16,7 +16,7 @@ Obat QnC Jelly Gamat ini terbuat dari teripang emas dan madu murni.
 Dan, tentunya mengatasi bau mulut dan peradangan yang terjadi di organ sekitar lambung, seperti kerongkongan.
 
 <div style="background-color: #bee6f7; padding: 9px;">
-Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp155.000 perbotol</strong>.
+Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp165.000 perbotol</strong>.
 <br/>
 <br/>
 Penggunaanya bisa dioleskan dan dikonsumsi langsung.
