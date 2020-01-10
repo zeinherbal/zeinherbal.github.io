@@ -14,7 +14,7 @@ Nah, di artikel ini kami sangat merekomendasikan Anda menggunakan dan mengonsums
 Produk herbal dari **teripang emas** dan **madu murni** ini tentunya memiliki <span style="background-color: #caffca; padding: 4px 0;">zat dan senyawa yang mampu mengatasi bintik putih di bibir, yang disebabkan oleh beragam hal, seperti infeksi jamur dan alergi</span>.
 
 <div style="background-color: #bee6f7; padding: 9px;">
-Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp155.000 perbotol</strong>.
+Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp165.000 perbotol</strong>.
 <br/>
 <br/>
 Penggunaanya bisa dioleskan dan dikonsumsi langsung.
