@@ -14,7 +14,7 @@ Khasiat kombinasi dua bahan alami tersebut ampuh memberantas infeksi dan peradan
 Di website ini terdapat produk herbal merek <span style="color: orange;">QnC Jelly Gamat</span>, terbuat dari teripang emas dan madu, yang sudah lulus uji nutrisi di **BPOM RI**, dengan no registrasi **TR173301471**.
 
 <div style="background-color: #bee6f7; padding: 9px;">
-Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <span style="color: red;">Harganya Rp155.000 perbotol</span>.
+Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <span style="color: red;">Harganya Rp165.000 perbotol</span>.
 
 Penggunaanya bisa dioleskan dan dikonsumsi langsung.
 </div>
