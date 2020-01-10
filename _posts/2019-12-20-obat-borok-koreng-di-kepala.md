@@ -13,7 +13,7 @@ Terbuat dari teripang emas dan madu murni. Produk herbal ini sudah lulus uji di 
 
 Beberapa kandungannya seperti anti-inflamasi, antibakteri, gamapeptide, antioksidan, dan sebagainya.
 
-<p style="background-color: #caf1c5; font-weight: bold; padding: 10px;">Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <span style="color: dodgerblue;">Harganya Rp155.000 perbotol</span>.</p>
+<p style="background-color: #caf1c5; font-weight: bold; padding: 10px;">Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <span style="color: dodgerblue;">Harganya Rp165.000 perbotol</span>.</p>
 
 Khusus hari ini
 
