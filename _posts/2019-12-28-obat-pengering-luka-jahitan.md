@@ -16,7 +16,7 @@ Misalnya, bisa terjadi infeksi atau masalah kulit serius lainnya.
 Kandungan dalam QnC Jelly Gamat sudah lulus uji di BPOM RI.
 
 <div style="background-color: #bee6f7; padding: 9px;">
-Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp155.000 perbotol</strong>.
+Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp165.000 perbotol</strong>.
 <br/>
 <br/>
 Penggunaanya bisa dioleskan dan dikonsumsi langsung.
