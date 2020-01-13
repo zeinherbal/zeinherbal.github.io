@@ -6,22 +6,23 @@ description: Darah kental tentulah berbahaya bagi tubuh, untuk itu segera obati 
 
 ***lengan dan kaki terasa kesemutan, bengkak, dan nyeri? Atau, dada terasa berat hingga terasa ke lengan dan leher?*** Itu adalah keluhan dari darah kental.
 
-Harus diketahui, bahwa keluhan tersebut mesti segera diobati, karena **<span style="color: crimson">bila dibiarkan kondisi tersebut bisa berubah parah, bahkan bisa sebabkan penyakit kronis, seperti penyakit jantung, stroke, dan gangguan ginjal</span>**.
+Segera diobati, karena **<span style="color: crimson">bila dibiarkan kondisi tersebut bisa berubah parah, bahkan bisa sebabkan penyakit kronis, seperti penyakit jantung, stroke, dan gangguan ginjal</span>**.
 
-Anda mencari solusi untuk mengobati darah kental tanpa obat kimia? ***<span style="color: green">Di situs ini kami memiliki solusi untuk mengobati darah kenal Anda dengan bahan alami</span>***.
+Anda mencari solusi untuk mengobati darah kental tanpa obat kimia?
 
 Solusinya yaitu, obat herbal dari sarang semut, namanya **<span style="color: red">Sarmucare</span>**. Produk ini 100% berbahan alami, atau lebih teaptnya ***100% dari sarang semut***.
 
 > Beragam zat dan senyawa aktif dalam sarang semut terbukti mampu menormalkan kembali kondisi darah kental.
 
-**Untuk hari ini:**
-{: style="text-align: center;"}
-
-—Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima—
-{: style="color: red; text-align: center; font-weight: bold;"}
-
-—Pesan 2 Botol - Gratis Ongkos Kirim—
-{: style="color: red; text-align: center; font-weight: bold;"}
+<div style="border-left: 5px red solid; padding-left: 9px;">
+<strong>Khusus untuk hari ini:</strong>
+<br/>
+<br/>
+<strong style="color: red;">‒ Pesan 1 Botol - Obat Dikirim Dahulu - Pembayarannya Ditransfer Setelah Obatnya Diterima</strong>
+<br/>
+<br/>
+<strong style="color: red;">‒ Pesan 2 Botol - Gratis Ongkos Kirim</strong>
+</div>
 
 **Bisa pesan melalui COD/Bayar Di Tempat**
 {: style="text-align: center; color: deepskyblue;"}
